@@ -1,11 +1,12 @@
-# Python
+
 __pycache__/
 venv/
+.env
 
-# PyCharm
+
 .idea/
 
-# OS
+
 .DS_Store
 *.zip
 *.png
