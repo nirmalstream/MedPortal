@@ -1,0 +1,92 @@
+[
+  {
+    "doctor_id": 1,
+    "first_name": "Jill",
+    "last_name": "Rhodes",
+    "specialization": "Rheumatology",
+    "license_number": "MD104332",
+    "phone": "658-189-7912",
+    "email": "johnsonjeffery@example.net"
+  },
+  {
+    "doctor_id": 2,
+    "first_name": "Jeffrey",
+    "last_name": "Lawrence",
+    "specialization": "Internal Medicine",
+    "license_number": "MD908386",
+    "phone": "928-990-1106",
+    "email": "helenpeterson@example.org"
+  },
+  {
+    "doctor_id": 3,
+    "first_name": "Michael",
+    "last_name": "Cooper",
+    "specialization": "Family Medicine",
+    "license_number": "MD351161",
+    "phone": "370-926-1711",
+    "email": "yherrera@example.org"
+  },
+  {
+    "doctor_id": 4,
+    "first_name": "Janet",
+    "last_name": "Williams",
+    "specialization": "Urology",
+    "license_number": "MD849593",
+    "phone": "333-891-5741",
+    "email": "wyattmichelle@example.com"
+  },
+  {
+    "doctor_id": 5,
+    "first_name": "Jason",
+    "last_name": "Adams",
+    "specialization": "Gastroenterology",
+    "license_number": "MD475255",
+    "phone": "799-763-2169",
+    "email": "amandasanchez@example.com"
+  },
+  {
+    "doctor_id": 6,
+    "first_name": "Jeremy",
+    "last_name": "Johnson",
+    "specialization": "Pulmonology",
+    "license_number": "MD648350",
+    "phone": "423-510-5386",
+    "email": "clarksherri@example.net"
+  },
+  {
+    "doctor_id": 7,
+    "first_name": "Joseph",
+    "last_name": "Wright",
+    "specialization": "Pulmonology",
+    "license_number": "MD537672",
+    "phone": "674-651-5304",
+    "email": "zhurst@example.com"
+  },
+  {
+    "doctor_id": 8,
+    "first_name": "Michelle",
+    "last_name": "Hernandez",
+    "specialization": "Cardiology",
+    "license_number": "MD328710",
+    "phone": "263-911-7916",
+    "email": "cruzcaitlin@example.com"
+  },
+  {
+    "doctor_id": 9,
+    "first_name": "Karen",
+    "last_name": "Mack",
+    "specialization": "Urology",
+    "license_number": "MD848018",
+    "phone": "448-214-5808",
+    "email": "amoore@example.net"
+  },
+  {
+    "doctor_id": 10,
+    "first_name": "Meagan",
+    "last_name": "Romero",
+    "specialization": "Internal Medicine",
+    "license_number": "MD482814",
+    "phone": "303-256-7126",
+    "email": "amberosborne@example.net"
+  }
+]

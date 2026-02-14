@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% block title %}Semantic Search{% endblock %}
+{% block content %}
+<h1>Semantic Search</h1>
+<p class="text-muted">Search for similar clinical cases using natural language. Powered by Weaviate vector database.</p>
+
+<form method="POST" class="mt-3">
+    <div class="input-group mb-3">
+        <input type="text" name="query" class="form-control form-control-lg" 
+               placeholder="e.g., patient with chest pain and shortness of breath" 
+               value="{{ query }}">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+
+{% if results %}
+<h4>Found {{ results|length }} similar cases:</h4>
+<div class="mt-3">
+    {% for r in results %}
+    <div class="card mb-3">
+        <div class="card-header">
+            <strong>Appointment #{{ r.properties.appointment_id }}</strong>
+            <span class="float-end text-muted">
+                Patient ID: {{ r.properties.patient_id }} | Doctor ID: {{ r.properties.doctor_id }}
+            </span>
+        </div>
+        <div class="card-body">
+            <p><strong>Reason for Visit:</strong> {{ r.properties.reason_for_visit }}</p>
+            <p><strong>Clinical Notes:</strong></p>
+            <p class="bg-light p-2 rounded">{{ r.properties.clinical_notes }}</p>
+            {% if r.metadata.distance is defined %}
+            <small class="text-muted">Similarity distance: {{ "%.4f"|format(r.metadata.distance) }}</small>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% elif query %}
+<div class="alert alert-info">No similar cases found for "{{ query }}"</div>
+{% endif %}
+{% endblock %}

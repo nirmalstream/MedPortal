@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Procedures{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between align-items-center">
+    <h1>Procedures</h1>
+    <div>
+        {% if view_all %}
+        <a href="{{ url_for('main.procedures') }}" class="btn btn-outline-secondary">View My Procedures</a>
+        {% else %}
+        <a href="{{ url_for('main.procedures', view='all') }}" class="btn btn-outline-secondary">View All Procedures</a>
+        {% endif %}
+        <a href="{{ url_for('main.create_procedure') }}" class="btn btn-primary">Add Procedure</a>
+    </div>
+</div>
+
+<p class="text-muted">
+    {% if view_all %}
+    Showing: All Procedures
+    {% else %}
+    Showing: Your Procedures
+    {% endif %}
+</p>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Patient</th>
+            <th>Procedure</th>
+            <th>Type</th>
+            <th>Duration</th>
+            <th>Outcome</th>
+            <th>Performed</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for p in procedures %}
+        <tr>
+            <td>{{ p.procedure_id }}</td>
+            <td>{{ p.patient_first_name }} {{ p.patient_last_name }}</td>
+            <td>{{ p.procedure_name }}</td>
+            <td>{{ p.procedure_type or '-' }}</td>
+            <td>{{ p.duration_minutes }} min</td>
+            <td>
+                <span class="badge bg-{{ 'success' if p.outcome == 'completed' or p.outcome == 'normal' else 'warning' if p.outcome == 'pending review' else 'info' }}">
+                    {{ p.outcome or '-' }}
+                </span>
+            </td>
+            <td>{{ p.performed_at }}</td>
+            <td>
+                <a href="{{ url_for('main.edit_procedure', id=p.procedure_id) }}" class="btn btn-sm btn-warning">Edit</a>
+                <form action="{{ url_for('main.delete_procedure', id=p.procedure_id) }}" method="POST" class="d-inline">
+                    <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Delete this procedure?')">Delete</button>
+                </form>
+            </td>
+        </tr>
+        {% else %}
+        <tr>
+            <td colspan="8" class="text-center text-muted">No procedures found.</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

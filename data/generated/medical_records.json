@@ -1,0 +1,1162 @@
+[
+  {
+    "record_id": 1,
+    "appointment_id": 2,
+    "visit_date": "2025-02-19T12:49:06.110558",
+    "chief_complaint": "skin infection",
+    "diagnosis": "Cellulitis",
+    "treatment_plan": "Start Amoxicillin-clavulanate. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 2,
+    "appointment_id": 7,
+    "visit_date": "2025-03-30T16:49:06.110558",
+    "chief_complaint": "blood sugar management",
+    "diagnosis": "Type 2 Diabetes Mellitus",
+    "treatment_plan": "Start Metformin. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 3,
+    "appointment_id": 8,
+    "visit_date": "2025-09-21T17:19:06.110558",
+    "chief_complaint": "gout flare",
+    "diagnosis": "Gout",
+    "treatment_plan": "Start Colchicine. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 4,
+    "appointment_id": 12,
+    "visit_date": "2025-08-06T11:19:06.110558",
+    "chief_complaint": "COPD exacerbation",
+    "diagnosis": "COPD",
+    "treatment_plan": "Start Albuterol. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-27"
+  },
+  {
+    "record_id": 5,
+    "appointment_id": 13,
+    "visit_date": "2025-01-01T16:34:06.110558",
+    "chief_complaint": "burning abdominal pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Clarithromycin. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-01-29"
+  },
+  {
+    "record_id": 6,
+    "appointment_id": 15,
+    "visit_date": "2025-07-05T17:04:06.110558",
+    "chief_complaint": "abnormal lipid panel",
+    "diagnosis": "Hyperlipidemia",
+    "treatment_plan": "Start Ezetimibe. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-23"
+  },
+  {
+    "record_id": 7,
+    "appointment_id": 19,
+    "visit_date": "2025-01-26T15:49:06.110558",
+    "chief_complaint": "difficulty breathing",
+    "diagnosis": "Community-Acquired Pneumonia",
+    "treatment_plan": "Start Amoxicillin-clavulanate. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 8,
+    "appointment_id": 21,
+    "visit_date": "2025-09-16T07:34:06.110558",
+    "chief_complaint": "menopausal follow-up",
+    "diagnosis": "Menopause",
+    "treatment_plan": "Start Estradiol. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 9,
+    "appointment_id": 24,
+    "visit_date": "2025-05-22T13:49:06.110558",
+    "chief_complaint": "arthritis pain",
+    "diagnosis": "Osteoarthritis",
+    "treatment_plan": "Start Meloxicam. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-07-25"
+  },
+  {
+    "record_id": 10,
+    "appointment_id": 26,
+    "visit_date": "2025-06-25T16:04:06.110558",
+    "chief_complaint": "itchy watery eyes",
+    "diagnosis": "Allergic Rhinitis",
+    "treatment_plan": "Start Cetirizine. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-07-28"
+  },
+  {
+    "record_id": 11,
+    "appointment_id": 27,
+    "visit_date": "2025-08-21T09:19:06.110558",
+    "chief_complaint": "swollen legs",
+    "diagnosis": "Heart Failure",
+    "treatment_plan": "Start Furosemide. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-11-04"
+  },
+  {
+    "record_id": 12,
+    "appointment_id": 28,
+    "visit_date": "2025-02-04T12:04:06.110558",
+    "chief_complaint": "painful rash",
+    "diagnosis": "Shingles",
+    "treatment_plan": "Start Famciclovir. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-04-10"
+  },
+  {
+    "record_id": 13,
+    "appointment_id": 29,
+    "visit_date": "2024-12-03T12:04:06.110558",
+    "chief_complaint": "irregular bowel movements",
+    "diagnosis": "Irritable Bowel Syndrome",
+    "treatment_plan": "Start Amitriptyline. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 14,
+    "appointment_id": 30,
+    "visit_date": "2025-11-07T17:04:06.110558",
+    "chief_complaint": "trouble sleeping",
+    "diagnosis": "Insomnia",
+    "treatment_plan": "Start Melatonin. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 15,
+    "appointment_id": 34,
+    "visit_date": "2025-07-17T17:19:06.110558",
+    "chief_complaint": "menopause symptoms",
+    "diagnosis": "Menopause",
+    "treatment_plan": "Start Paroxetine. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 16,
+    "appointment_id": 35,
+    "visit_date": "2025-04-22T14:34:06.110558",
+    "chief_complaint": "skin rash",
+    "diagnosis": "Eczema",
+    "treatment_plan": "Start Hydrocortisone cream. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-05-16"
+  },
+  {
+    "record_id": 17,
+    "appointment_id": 37,
+    "visit_date": "2025-09-28T08:19:06.110558",
+    "chief_complaint": "palpitations",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Diltiazem. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 18,
+    "appointment_id": 38,
+    "visit_date": "2025-11-10T13:49:06.110558",
+    "chief_complaint": "blood sugar management",
+    "diagnosis": "Type 2 Diabetes Mellitus",
+    "treatment_plan": "Start Empagliflozin. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-21"
+  },
+  {
+    "record_id": 19,
+    "appointment_id": 40,
+    "visit_date": "2025-07-06T11:34:06.110558",
+    "chief_complaint": "thyroid follow-up",
+    "diagnosis": "Hyperthyroidism",
+    "treatment_plan": "Start Atenolol. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-24"
+  },
+  {
+    "record_id": 20,
+    "appointment_id": 45,
+    "visit_date": "2025-01-07T16:04:06.110558",
+    "chief_complaint": "swollen legs",
+    "diagnosis": "Heart Failure",
+    "treatment_plan": "Start Sacubitril-valsartan. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 21,
+    "appointment_id": 46,
+    "visit_date": "2025-10-02T12:04:06.110558",
+    "chief_complaint": "rash from exposure",
+    "diagnosis": "Contact Dermatitis",
+    "treatment_plan": "Start Triamcinolone cream. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 22,
+    "appointment_id": 47,
+    "visit_date": "2025-04-14T13:04:06.110558",
+    "chief_complaint": "chronic skin irritation",
+    "diagnosis": "Eczema",
+    "treatment_plan": "Start Moisturizers. No significant past medical history.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 23,
+    "appointment_id": 48,
+    "visit_date": "2024-12-11T09:04:06.110558",
+    "chief_complaint": "itchy dry skin",
+    "diagnosis": "Eczema",
+    "treatment_plan": "Start Cetirizine. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 24,
+    "appointment_id": 49,
+    "visit_date": "2025-03-31T08:49:06.110558",
+    "chief_complaint": "GERD symptoms",
+    "diagnosis": "GERD",
+    "treatment_plan": "Start Esomeprazole. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-05-26"
+  },
+  {
+    "record_id": 25,
+    "appointment_id": 50,
+    "visit_date": "2025-03-04T11:34:06.110558",
+    "chief_complaint": "epigastric pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Amoxicillin. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 26,
+    "appointment_id": 51,
+    "visit_date": "2025-08-05T15:04:06.110558",
+    "chief_complaint": "vitamin D check",
+    "diagnosis": "Vitamin D Deficiency",
+    "treatment_plan": "Start Cholecalciferol. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-22"
+  },
+  {
+    "record_id": 27,
+    "appointment_id": 53,
+    "visit_date": "2025-08-27T14:19:06.110558",
+    "chief_complaint": "shingles",
+    "diagnosis": "Shingles",
+    "treatment_plan": "Start Lidocaine patch. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-10-08"
+  },
+  {
+    "record_id": 28,
+    "appointment_id": 54,
+    "visit_date": "2025-09-11T08:49:06.110558",
+    "chief_complaint": "COPD follow-up",
+    "diagnosis": "COPD",
+    "treatment_plan": "Start Azithromycin. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-11-15"
+  },
+  {
+    "record_id": 29,
+    "appointment_id": 55,
+    "visit_date": "2025-04-17T16:49:06.110558",
+    "chief_complaint": "anxiety",
+    "diagnosis": "Generalized Anxiety Disorder",
+    "treatment_plan": "Start Escitalopram. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-07-06"
+  },
+  {
+    "record_id": 30,
+    "appointment_id": 56,
+    "visit_date": "2025-07-30T12:19:06.110558",
+    "chief_complaint": "stomach pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Amoxicillin. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 31,
+    "appointment_id": 58,
+    "visit_date": "2025-11-01T15:04:06.110558",
+    "chief_complaint": "knee pain",
+    "diagnosis": "Osteoarthritis",
+    "treatment_plan": "Start Duloxetine. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-01"
+  },
+  {
+    "record_id": 32,
+    "appointment_id": 59,
+    "visit_date": "2025-11-23T15:04:06.110558",
+    "chief_complaint": "COPD exacerbation",
+    "diagnosis": "COPD",
+    "treatment_plan": "Start Prednisone. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-07"
+  },
+  {
+    "record_id": 33,
+    "appointment_id": 60,
+    "visit_date": "2024-12-30T11:04:06.110558",
+    "chief_complaint": "erectile dysfunction",
+    "diagnosis": "Erectile Dysfunction",
+    "treatment_plan": "Start Avanafil. Alert and oriented.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 34,
+    "appointment_id": 61,
+    "visit_date": "2025-12-01T10:04:06.110558",
+    "chief_complaint": "eye discharge",
+    "diagnosis": "Conjunctivitis",
+    "treatment_plan": "Start Artificial tears. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-07"
+  },
+  {
+    "record_id": 35,
+    "appointment_id": 62,
+    "visit_date": "2025-07-03T15:19:06.110558",
+    "chief_complaint": "skin infection",
+    "diagnosis": "Cellulitis",
+    "treatment_plan": "Start Amoxicillin-clavulanate. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 36,
+    "appointment_id": 64,
+    "visit_date": "2025-11-05T14:49:06.110558",
+    "chief_complaint": "weight management",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Topiramate-phentermine. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-12-08"
+  },
+  {
+    "record_id": 37,
+    "appointment_id": 67,
+    "visit_date": "2025-01-23T14:34:06.110558",
+    "chief_complaint": "weight loss help",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Semaglutide. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 38,
+    "appointment_id": 72,
+    "visit_date": "2025-09-18T09:49:06.110558",
+    "chief_complaint": "headache with nausea",
+    "diagnosis": "Migraine",
+    "treatment_plan": "Start Amitriptyline. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 39,
+    "appointment_id": 74,
+    "visit_date": "2025-07-08T12:19:06.110558",
+    "chief_complaint": "difficulty losing weight",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Phentermine. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-01"
+  },
+  {
+    "record_id": 40,
+    "appointment_id": 76,
+    "visit_date": "2025-04-28T11:04:06.110558",
+    "chief_complaint": "eye discharge",
+    "diagnosis": "Conjunctivitis",
+    "treatment_plan": "Start Ofloxacin eye drops. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-05-21"
+  },
+  {
+    "record_id": 41,
+    "appointment_id": 79,
+    "visit_date": "2025-05-25T09:19:06.110558",
+    "chief_complaint": "burning abdominal pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Amoxicillin. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 42,
+    "appointment_id": 80,
+    "visit_date": "2025-10-25T12:34:06.110558",
+    "chief_complaint": "head pain",
+    "diagnosis": "Tension Headache",
+    "treatment_plan": "Start Aspirin. No acute distress noted.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-13"
+  },
+  {
+    "record_id": 43,
+    "appointment_id": 83,
+    "visit_date": "2025-02-20T13:34:06.110558",
+    "chief_complaint": "palpitations",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Amiodarone. Alert and oriented.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 44,
+    "appointment_id": 84,
+    "visit_date": "2025-10-29T12:34:06.110558",
+    "chief_complaint": "hypothyroid follow-up",
+    "diagnosis": "Hypothyroidism",
+    "treatment_plan": "Start Armour Thyroid. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-12-26"
+  },
+  {
+    "record_id": 45,
+    "appointment_id": 85,
+    "visit_date": "2025-09-12T10:49:06.110558",
+    "chief_complaint": "vitamin D follow-up",
+    "diagnosis": "Vitamin D Deficiency",
+    "treatment_plan": "Start Ergocalciferol. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 46,
+    "appointment_id": 88,
+    "visit_date": "2025-01-27T14:49:06.110558",
+    "chief_complaint": "feeling cold and tired",
+    "diagnosis": "Hypothyroidism",
+    "treatment_plan": "Start Armour Thyroid. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-02-14"
+  },
+  {
+    "record_id": 47,
+    "appointment_id": 89,
+    "visit_date": "2025-07-18T08:34:06.110558",
+    "chief_complaint": "itchy dry skin",
+    "diagnosis": "Eczema",
+    "treatment_plan": "Start Moisturizers. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 48,
+    "appointment_id": 90,
+    "visit_date": "2025-11-27T08:49:06.110558",
+    "chief_complaint": "eye discharge",
+    "diagnosis": "Conjunctivitis",
+    "treatment_plan": "Start Ketotifen eye drops. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-27"
+  },
+  {
+    "record_id": 49,
+    "appointment_id": 91,
+    "visit_date": "2025-02-19T14:34:06.110558",
+    "chief_complaint": "head pain",
+    "diagnosis": "Tension Headache",
+    "treatment_plan": "Start Naproxen. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 50,
+    "appointment_id": 92,
+    "visit_date": "2025-11-08T13:34:06.110558",
+    "chief_complaint": "racing heart",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Apixaban. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-26"
+  },
+  {
+    "record_id": 51,
+    "appointment_id": 94,
+    "visit_date": "2025-09-14T08:04:06.110558",
+    "chief_complaint": "painful rash",
+    "diagnosis": "Shingles",
+    "treatment_plan": "Start Gabapentin. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-26"
+  },
+  {
+    "record_id": 52,
+    "appointment_id": 96,
+    "visit_date": "2025-05-18T16:34:06.110558",
+    "chief_complaint": "COPD follow-up",
+    "diagnosis": "COPD",
+    "treatment_plan": "Start Prednisone. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-06-14"
+  },
+  {
+    "record_id": 53,
+    "appointment_id": 97,
+    "visit_date": "2025-08-22T09:04:06.110558",
+    "chief_complaint": "irregular heartbeat",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Amiodarone. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 54,
+    "appointment_id": 98,
+    "visit_date": "2025-03-21T10:04:06.110558",
+    "chief_complaint": "headache with dizziness",
+    "diagnosis": "Essential Hypertension",
+    "treatment_plan": "Start Losartan. No significant past medical history.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 55,
+    "appointment_id": 100,
+    "visit_date": "2025-06-28T14:04:06.110558",
+    "chief_complaint": "bone pain",
+    "diagnosis": "Vitamin D Deficiency",
+    "treatment_plan": "Start Cholecalciferol. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 56,
+    "appointment_id": 101,
+    "visit_date": "2025-01-12T14:04:06.110558",
+    "chief_complaint": "difficulty losing weight",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Semaglutide. No fever present.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-01-25"
+  },
+  {
+    "record_id": 57,
+    "appointment_id": 102,
+    "visit_date": "2025-10-29T09:49:06.110558",
+    "chief_complaint": "allergies",
+    "diagnosis": "Allergic Rhinitis",
+    "treatment_plan": "Start Cetirizine. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-12-29"
+  },
+  {
+    "record_id": 58,
+    "appointment_id": 103,
+    "visit_date": "2025-09-18T17:04:06.110558",
+    "chief_complaint": "weight management",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Orlistat. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-11-25"
+  },
+  {
+    "record_id": 59,
+    "appointment_id": 104,
+    "visit_date": "2025-05-10T15:19:06.110558",
+    "chief_complaint": "sneezing and runny nose",
+    "diagnosis": "Allergic Rhinitis",
+    "treatment_plan": "Start Cetirizine. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-07-22"
+  },
+  {
+    "record_id": 60,
+    "appointment_id": 105,
+    "visit_date": "2025-08-03T15:49:06.110558",
+    "chief_complaint": "joint pain and swelling",
+    "diagnosis": "Rheumatoid Arthritis",
+    "treatment_plan": "Start Sulfasalazine. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 61,
+    "appointment_id": 108,
+    "visit_date": "2025-11-04T16:49:06.110558",
+    "chief_complaint": "weight loss and anxiety",
+    "diagnosis": "Hyperthyroidism",
+    "treatment_plan": "Start Propylthiouracil. No acute distress noted.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-11"
+  },
+  {
+    "record_id": 62,
+    "appointment_id": 109,
+    "visit_date": "2025-05-20T09:34:06.110558",
+    "chief_complaint": "weight loss and anxiety",
+    "diagnosis": "Hyperthyroidism",
+    "treatment_plan": "Start Propranolol. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-06-09"
+  },
+  {
+    "record_id": 63,
+    "appointment_id": 111,
+    "visit_date": "2025-02-19T09:49:06.110558",
+    "chief_complaint": "difficulty breathing",
+    "diagnosis": "Community-Acquired Pneumonia",
+    "treatment_plan": "Start Doxycycline. Alert and oriented.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 64,
+    "appointment_id": 112,
+    "visit_date": "2025-07-20T10:49:06.110558",
+    "chief_complaint": "burning abdominal pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Omeprazole. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-10-17"
+  },
+  {
+    "record_id": 65,
+    "appointment_id": 116,
+    "visit_date": "2025-06-12T11:19:06.110558",
+    "chief_complaint": "low mood",
+    "diagnosis": "Major Depressive Disorder",
+    "treatment_plan": "Start Bupropion. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-05"
+  },
+  {
+    "record_id": 66,
+    "appointment_id": 117,
+    "visit_date": "2024-12-05T08:34:06.110558",
+    "chief_complaint": "skin reaction",
+    "diagnosis": "Contact Dermatitis",
+    "treatment_plan": "Start Cetirizine. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-03-02"
+  },
+  {
+    "record_id": 67,
+    "appointment_id": 118,
+    "visit_date": "2025-10-17T14:34:06.110558",
+    "chief_complaint": "irregular heartbeat",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Metoprolol. No significant past medical history.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 68,
+    "appointment_id": 120,
+    "visit_date": "2025-08-19T15:34:06.110558",
+    "chief_complaint": "hot swollen area",
+    "diagnosis": "Cellulitis",
+    "treatment_plan": "Start Clindamycin. No acute distress noted.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-10"
+  },
+  {
+    "record_id": 69,
+    "appointment_id": 121,
+    "visit_date": "2025-05-22T09:34:06.110558",
+    "chief_complaint": "weight loss help",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Orlistat. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 70,
+    "appointment_id": 123,
+    "visit_date": "2024-12-21T11:04:06.110558",
+    "chief_complaint": "difficulty with erections",
+    "diagnosis": "Erectile Dysfunction",
+    "treatment_plan": "Start Sildenafil. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-01-28"
+  },
+  {
+    "record_id": 71,
+    "appointment_id": 124,
+    "visit_date": "2025-06-09T16:04:06.110558",
+    "chief_complaint": "eczema flare",
+    "diagnosis": "Eczema",
+    "treatment_plan": "Start Moisturizers. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 72,
+    "appointment_id": 125,
+    "visit_date": "2025-07-09T10:19:06.110558",
+    "chief_complaint": "irregular bowel movements",
+    "diagnosis": "Irritable Bowel Syndrome",
+    "treatment_plan": "Start Dicyclomine. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-04"
+  },
+  {
+    "record_id": 73,
+    "appointment_id": 127,
+    "visit_date": "2025-06-08T13:19:06.110558",
+    "chief_complaint": "recurring headaches",
+    "diagnosis": "Migraine",
+    "treatment_plan": "Start Sumatriptan. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-17"
+  },
+  {
+    "record_id": 74,
+    "appointment_id": 128,
+    "visit_date": "2025-04-24T10:34:06.110558",
+    "chief_complaint": "fatigue and weakness",
+    "diagnosis": "Iron Deficiency Anemia",
+    "treatment_plan": "Start Ferrous sulfate. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 75,
+    "appointment_id": 131,
+    "visit_date": "2025-04-30T11:49:06.110558",
+    "chief_complaint": "excessive worry",
+    "diagnosis": "Generalized Anxiety Disorder",
+    "treatment_plan": "Start Duloxetine. Alert and oriented.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 76,
+    "appointment_id": 132,
+    "visit_date": "2025-06-09T14:49:06.110558",
+    "chief_complaint": "hypothyroid follow-up",
+    "diagnosis": "Hypothyroidism",
+    "treatment_plan": "Start Armour Thyroid. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 77,
+    "appointment_id": 133,
+    "visit_date": "2025-09-11T16:49:06.110558",
+    "chief_complaint": "difficulty urinating",
+    "diagnosis": "Benign Prostatic Hyperplasia",
+    "treatment_plan": "Start Tamsulosin. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-11-17"
+  },
+  {
+    "record_id": 78,
+    "appointment_id": 139,
+    "visit_date": "2025-11-20T07:49:06.110558",
+    "chief_complaint": "irregular bowel movements",
+    "diagnosis": "Irritable Bowel Syndrome",
+    "treatment_plan": "Start Hyoscyamine. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-11-28"
+  },
+  {
+    "record_id": 79,
+    "appointment_id": 141,
+    "visit_date": "2025-04-08T09:34:06.110558",
+    "chief_complaint": "chest congestion",
+    "diagnosis": "Acute Bronchitis",
+    "treatment_plan": "Start Ibuprofen. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-06-04"
+  },
+  {
+    "record_id": 80,
+    "appointment_id": 143,
+    "visit_date": "2025-04-05T11:04:06.110558",
+    "chief_complaint": "pale and dizzy",
+    "diagnosis": "Iron Deficiency Anemia",
+    "treatment_plan": "Start Vitamin C. No significant past medical history.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 81,
+    "appointment_id": 144,
+    "visit_date": "2025-06-08T08:19:06.110558",
+    "chief_complaint": "fatigue and weight gain",
+    "diagnosis": "Hypothyroidism",
+    "treatment_plan": "Start Liothyronine. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-07-20"
+  },
+  {
+    "record_id": 82,
+    "appointment_id": 149,
+    "visit_date": "2024-12-11T13:04:06.110558",
+    "chief_complaint": "irregular bowel movements",
+    "diagnosis": "Irritable Bowel Syndrome",
+    "treatment_plan": "Start Linaclotide. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-01-06"
+  },
+  {
+    "record_id": 83,
+    "appointment_id": 150,
+    "visit_date": "2025-08-28T17:19:06.110558",
+    "chief_complaint": "difficulty losing weight",
+    "diagnosis": "Obesity",
+    "treatment_plan": "Start Orlistat. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-10-13"
+  },
+  {
+    "record_id": 84,
+    "appointment_id": 151,
+    "visit_date": "2025-10-12T14:34:06.110558",
+    "chief_complaint": "joint swelling and redness",
+    "diagnosis": "Gout",
+    "treatment_plan": "Start Colchicine. No acute distress noted.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-10-30"
+  },
+  {
+    "record_id": 85,
+    "appointment_id": 152,
+    "visit_date": "2025-11-16T12:19:06.110558",
+    "chief_complaint": "ED follow-up",
+    "diagnosis": "Erectile Dysfunction",
+    "treatment_plan": "Start Sildenafil. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2026-01-01"
+  },
+  {
+    "record_id": 86,
+    "appointment_id": 153,
+    "visit_date": "2025-04-22T11:34:06.110558",
+    "chief_complaint": "seasonal allergies",
+    "diagnosis": "Allergic Rhinitis",
+    "treatment_plan": "Start Fluticasone nasal spray. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-04-30"
+  },
+  {
+    "record_id": 87,
+    "appointment_id": 154,
+    "visit_date": "2025-03-22T11:04:06.110558",
+    "chief_complaint": "tension headache",
+    "diagnosis": "Tension Headache",
+    "treatment_plan": "Start Naproxen. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 88,
+    "appointment_id": 156,
+    "visit_date": "2025-08-03T14:49:06.110558",
+    "chief_complaint": "COPD exacerbation",
+    "diagnosis": "COPD",
+    "treatment_plan": "Start Tiotropium. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 89,
+    "appointment_id": 159,
+    "visit_date": "2025-02-09T16:19:06.110558",
+    "chief_complaint": "difficulty with erections",
+    "diagnosis": "Erectile Dysfunction",
+    "treatment_plan": "Start Sildenafil. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 90,
+    "appointment_id": 162,
+    "visit_date": "2025-04-18T13:04:06.110558",
+    "chief_complaint": "thyroid follow-up",
+    "diagnosis": "Hyperthyroidism",
+    "treatment_plan": "Start Propranolol. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-06-27"
+  },
+  {
+    "record_id": 91,
+    "appointment_id": 163,
+    "visit_date": "2025-10-26T12:04:06.110558",
+    "chief_complaint": "IBS symptoms",
+    "diagnosis": "Irritable Bowel Syndrome",
+    "treatment_plan": "Start Loperamide. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 92,
+    "appointment_id": 164,
+    "visit_date": "2025-11-16T16:34:06.110558",
+    "chief_complaint": "sudden joint pain",
+    "diagnosis": "Gout",
+    "treatment_plan": "Start Febuxostat. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 93,
+    "appointment_id": 165,
+    "visit_date": "2025-11-16T11:19:06.110558",
+    "chief_complaint": "difficulty urinating",
+    "diagnosis": "Benign Prostatic Hyperplasia",
+    "treatment_plan": "Start Tamsulosin. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-12-22"
+  },
+  {
+    "record_id": 94,
+    "appointment_id": 166,
+    "visit_date": "2025-06-23T11:34:06.110558",
+    "chief_complaint": "abdominal pain and bloating",
+    "diagnosis": "Irritable Bowel Syndrome",
+    "treatment_plan": "Start Linaclotide. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-07-31"
+  },
+  {
+    "record_id": 95,
+    "appointment_id": 167,
+    "visit_date": "2025-02-10T14:04:06.110558",
+    "chief_complaint": "burning abdominal pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Pantoprazole. Alert and oriented.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 96,
+    "appointment_id": 169,
+    "visit_date": "2025-05-29T10:04:06.110558",
+    "chief_complaint": "chronic back pain",
+    "diagnosis": "Low Back Pain",
+    "treatment_plan": "Start Naproxen. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-14"
+  },
+  {
+    "record_id": 97,
+    "appointment_id": 170,
+    "visit_date": "2024-12-25T14:19:06.110558",
+    "chief_complaint": "depression follow-up",
+    "diagnosis": "Major Depressive Disorder",
+    "treatment_plan": "Start Fluoxetine. Alert and oriented.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-02-23"
+  },
+  {
+    "record_id": 98,
+    "appointment_id": 173,
+    "visit_date": "2025-07-04T13:49:06.110558",
+    "chief_complaint": "BPH follow-up",
+    "diagnosis": "Benign Prostatic Hyperplasia",
+    "treatment_plan": "Start Tamsulosin. Patient appears uncomfortable but stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-22"
+  },
+  {
+    "record_id": 99,
+    "appointment_id": 174,
+    "visit_date": "2025-07-04T15:49:06.110558",
+    "chief_complaint": "menopause symptoms",
+    "diagnosis": "Menopause",
+    "treatment_plan": "Start Vaginal estrogen. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-02"
+  },
+  {
+    "record_id": 100,
+    "appointment_id": 175,
+    "visit_date": "2025-10-07T07:34:06.110558",
+    "chief_complaint": "weight loss and anxiety",
+    "diagnosis": "Hyperthyroidism",
+    "treatment_plan": "Start Atenolol. Alert and oriented.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 101,
+    "appointment_id": 177,
+    "visit_date": "2025-06-15T15:04:06.110558",
+    "chief_complaint": "painful urination",
+    "diagnosis": "Urinary Tract Infection",
+    "treatment_plan": "Start Ciprofloxacin. No significant past medical history.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 102,
+    "appointment_id": 178,
+    "visit_date": "2025-09-17T10:49:06.110558",
+    "chief_complaint": "burning urination",
+    "diagnosis": "Urinary Tract Infection",
+    "treatment_plan": "Start Ciprofloxacin. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 103,
+    "appointment_id": 179,
+    "visit_date": "2025-11-03T13:04:06.110558",
+    "chief_complaint": "headache with nausea",
+    "diagnosis": "Migraine",
+    "treatment_plan": "Start Amitriptyline. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 104,
+    "appointment_id": 180,
+    "visit_date": "2025-01-10T07:34:06.110558",
+    "chief_complaint": "depression follow-up",
+    "diagnosis": "Major Depressive Disorder",
+    "treatment_plan": "Start Venlafaxine. No acute distress noted.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 105,
+    "appointment_id": 184,
+    "visit_date": "2025-06-28T14:49:06.110558",
+    "chief_complaint": "insomnia",
+    "diagnosis": "Insomnia",
+    "treatment_plan": "Start Trazodone. No significant past medical history.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-09-12"
+  },
+  {
+    "record_id": 106,
+    "appointment_id": 186,
+    "visit_date": "2024-12-26T09:04:06.110558",
+    "chief_complaint": "vitamin D check",
+    "diagnosis": "Vitamin D Deficiency",
+    "treatment_plan": "Start Cholecalciferol. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 107,
+    "appointment_id": 187,
+    "visit_date": "2025-09-19T14:04:06.110558",
+    "chief_complaint": "COPD exacerbation",
+    "diagnosis": "COPD",
+    "treatment_plan": "Start Albuterol. No significant past medical history.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 108,
+    "appointment_id": 189,
+    "visit_date": "2025-06-13T13:49:06.110558",
+    "chief_complaint": "threw out my back",
+    "diagnosis": "Low Back Pain",
+    "treatment_plan": "Start Ibuprofen. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 109,
+    "appointment_id": 190,
+    "visit_date": "2025-01-26T08:34:06.110558",
+    "chief_complaint": "thyroid follow-up",
+    "diagnosis": "Hyperthyroidism",
+    "treatment_plan": "Start Methimazole. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-03-27"
+  },
+  {
+    "record_id": 110,
+    "appointment_id": 191,
+    "visit_date": "2025-01-19T17:04:06.110558",
+    "chief_complaint": "trouble sleeping",
+    "diagnosis": "Insomnia",
+    "treatment_plan": "Start Zolpidem. Patient has history of similar symptoms.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 111,
+    "appointment_id": 193,
+    "visit_date": "2025-05-05T14:34:06.110558",
+    "chief_complaint": "heart failure follow-up",
+    "diagnosis": "Heart Failure",
+    "treatment_plan": "Start Spironolactone. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 112,
+    "appointment_id": 194,
+    "visit_date": "2025-05-20T15:04:06.110558",
+    "chief_complaint": "painful rash",
+    "diagnosis": "Shingles",
+    "treatment_plan": "Start Lidocaine patch. Patient has history of similar symptoms.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-08-09"
+  },
+  {
+    "record_id": 113,
+    "appointment_id": 195,
+    "visit_date": "2025-10-23T14:49:06.110558",
+    "chief_complaint": "stomach pain",
+    "diagnosis": "Peptic Ulcer Disease",
+    "treatment_plan": "Start Clarithromycin. Patient appears uncomfortable but stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 114,
+    "appointment_id": 197,
+    "visit_date": "2025-02-12T11:49:06.110558",
+    "chief_complaint": "irregular heartbeat",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Diltiazem. Vital signs stable.",
+    "follow_up_required": true,
+    "follow_up_date": "2025-04-15"
+  },
+  {
+    "record_id": 115,
+    "appointment_id": 198,
+    "visit_date": "2025-06-05T15:34:06.110558",
+    "chief_complaint": "AFib follow-up",
+    "diagnosis": "Atrial Fibrillation",
+    "treatment_plan": "Start Rivaroxaban. No fever present.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  },
+  {
+    "record_id": 116,
+    "appointment_id": 199,
+    "visit_date": "2025-08-21T15:49:06.110558",
+    "chief_complaint": "sore throat",
+    "diagnosis": "Acute Upper Respiratory Infection",
+    "treatment_plan": "Start Dextromethorphan. Vital signs stable.",
+    "follow_up_required": false,
+    "follow_up_date": null
+  }
+]

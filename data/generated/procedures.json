@@ -1,0 +1,1658 @@
+[
+  {
+    "procedure_id": 1,
+    "appointment_id": 2,
+    "procedure_name": "Mark borders",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 59,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 2,
+    "appointment_id": 7,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 21,
+    "outcome": "completed",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 3,
+    "appointment_id": 12,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 11,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 4,
+    "appointment_id": 12,
+    "procedure_name": "Chest X-ray",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 25,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 5,
+    "appointment_id": 13,
+    "procedure_name": "CBC",
+    "procedure_type": "Preventive",
+    "duration_minutes": 56,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 6,
+    "appointment_id": 13,
+    "procedure_name": "Stool guaiac test",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 5,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 7,
+    "appointment_id": 13,
+    "procedure_name": "Upper endoscopy",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 50,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 8,
+    "appointment_id": 19,
+    "procedure_name": "Basic metabolic panel",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 27,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 9,
+    "appointment_id": 19,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 16,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 10,
+    "appointment_id": 19,
+    "procedure_name": "CBC",
+    "procedure_type": "Preventive",
+    "duration_minutes": 59,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 11,
+    "appointment_id": 21,
+    "procedure_name": "FSH level",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 57,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 12,
+    "appointment_id": 21,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 7,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 13,
+    "appointment_id": 21,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 46,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 14,
+    "appointment_id": 24,
+    "procedure_name": "Range of motion assessment",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 30,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 15,
+    "appointment_id": 24,
+    "procedure_name": "X-ray of affected joint",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 59,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 16,
+    "appointment_id": 24,
+    "procedure_name": "Joint examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 33,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 17,
+    "appointment_id": 26,
+    "procedure_name": "IgE levels",
+    "procedure_type": "Preventive",
+    "duration_minutes": 7,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 18,
+    "appointment_id": 26,
+    "procedure_name": "Allergy skin testing",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 9,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 19,
+    "appointment_id": 26,
+    "procedure_name": "Nasal examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 7,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 20,
+    "appointment_id": 27,
+    "procedure_name": "Echocardiogram",
+    "procedure_type": "Preventive",
+    "duration_minutes": 11,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 21,
+    "appointment_id": 27,
+    "procedure_name": "Basic metabolic panel",
+    "procedure_type": "Preventive",
+    "duration_minutes": 42,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 22,
+    "appointment_id": 28,
+    "procedure_name": "PCR testing",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 38,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 23,
+    "appointment_id": 28,
+    "procedure_name": "Tzanck smear",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 38,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 24,
+    "appointment_id": 30,
+    "procedure_name": "Sleep study referral",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 33,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 25,
+    "appointment_id": 30,
+    "procedure_name": "Sleep history assessment",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 37,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 26,
+    "appointment_id": 34,
+    "procedure_name": "Bone density scan",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 47,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 27,
+    "appointment_id": 38,
+    "procedure_name": "Comprehensive metabolic panel",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 46,
+    "outcome": "pending review",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 28,
+    "appointment_id": 38,
+    "procedure_name": "HbA1c test",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 7,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 29,
+    "appointment_id": 40,
+    "procedure_name": "TSH",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 21,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 30,
+    "appointment_id": 40,
+    "procedure_name": "Free T4",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 51,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 31,
+    "appointment_id": 40,
+    "procedure_name": "Thyroid uptake scan",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 33,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 32,
+    "appointment_id": 46,
+    "procedure_name": "Skin biopsy",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 44,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 33,
+    "appointment_id": 46,
+    "procedure_name": "Skin examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 51,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 34,
+    "appointment_id": 47,
+    "procedure_name": "Skin examination",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 29,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 35,
+    "appointment_id": 48,
+    "procedure_name": "Skin biopsy",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 16,
+    "outcome": "pending review",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 36,
+    "appointment_id": 48,
+    "procedure_name": "Allergy testing",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 10,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 37,
+    "appointment_id": 48,
+    "procedure_name": "Skin examination",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 54,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 38,
+    "appointment_id": 49,
+    "procedure_name": "H. pylori testing",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 56,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 39,
+    "appointment_id": 50,
+    "procedure_name": "Upper endoscopy",
+    "procedure_type": "Preventive",
+    "duration_minutes": 35,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 40,
+    "appointment_id": 50,
+    "procedure_name": "H. pylori testing",
+    "procedure_type": "Preventive",
+    "duration_minutes": 43,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 41,
+    "appointment_id": 50,
+    "procedure_name": "Stool guaiac test",
+    "procedure_type": "Preventive",
+    "duration_minutes": 17,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 42,
+    "appointment_id": 51,
+    "procedure_name": "Vitamin D level",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 46,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 43,
+    "appointment_id": 53,
+    "procedure_name": "Viral culture",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 46,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 44,
+    "appointment_id": 54,
+    "procedure_name": "ABG",
+    "procedure_type": "Preventive",
+    "duration_minutes": 48,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 45,
+    "appointment_id": 54,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 40,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 46,
+    "appointment_id": 54,
+    "procedure_name": "CT chest",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 28,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 47,
+    "appointment_id": 55,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 52,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 48,
+    "appointment_id": 55,
+    "procedure_name": "Mental status examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 33,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 49,
+    "appointment_id": 56,
+    "procedure_name": "CBC",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 15,
+    "outcome": "pending review",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 50,
+    "appointment_id": 56,
+    "procedure_name": "Stool guaiac test",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 57,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 51,
+    "appointment_id": 59,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 28,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 52,
+    "appointment_id": 62,
+    "procedure_name": "Mark borders",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 54,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 53,
+    "appointment_id": 62,
+    "procedure_name": "Blood cultures",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 5,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 54,
+    "appointment_id": 62,
+    "procedure_name": "Wound culture",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 7,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 55,
+    "appointment_id": 64,
+    "procedure_name": "BMI calculation",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 15,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 56,
+    "appointment_id": 64,
+    "procedure_name": "HbA1c",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 27,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 57,
+    "appointment_id": 64,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 38,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 58,
+    "appointment_id": 72,
+    "procedure_name": "MRI brain",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 43,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 59,
+    "appointment_id": 72,
+    "procedure_name": "CT head",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 41,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 60,
+    "appointment_id": 72,
+    "procedure_name": "Headache diary review",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 31,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 61,
+    "appointment_id": 74,
+    "procedure_name": "HbA1c",
+    "procedure_type": "Preventive",
+    "duration_minutes": 39,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 62,
+    "appointment_id": 74,
+    "procedure_name": "Sleep study",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 29,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 63,
+    "appointment_id": 74,
+    "procedure_name": "BMI calculation",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 53,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 64,
+    "appointment_id": 76,
+    "procedure_name": "Eye examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 9,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 65,
+    "appointment_id": 76,
+    "procedure_name": "Conjunctival culture",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 56,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 66,
+    "appointment_id": 76,
+    "procedure_name": "Slit lamp examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 38,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 67,
+    "appointment_id": 80,
+    "procedure_name": "Physical examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 9,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 68,
+    "appointment_id": 80,
+    "procedure_name": "Neurological examination",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 25,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 69,
+    "appointment_id": 84,
+    "procedure_name": "Free T4",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 52,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 70,
+    "appointment_id": 84,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 19,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 71,
+    "appointment_id": 84,
+    "procedure_name": "TSH",
+    "procedure_type": "Preventive",
+    "duration_minutes": 14,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 72,
+    "appointment_id": 88,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 59,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 73,
+    "appointment_id": 88,
+    "procedure_name": "Thyroid antibodies",
+    "procedure_type": "Preventive",
+    "duration_minutes": 36,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 74,
+    "appointment_id": 88,
+    "procedure_name": "TSH",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 16,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 75,
+    "appointment_id": 89,
+    "procedure_name": "Skin examination",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 39,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 76,
+    "appointment_id": 89,
+    "procedure_name": "Skin biopsy",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 60,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 77,
+    "appointment_id": 89,
+    "procedure_name": "Allergy testing",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 49,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 78,
+    "appointment_id": 90,
+    "procedure_name": "Eye examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 29,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 79,
+    "appointment_id": 91,
+    "procedure_name": "Neurological examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 22,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 80,
+    "appointment_id": 91,
+    "procedure_name": "Physical examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 16,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 81,
+    "appointment_id": 91,
+    "procedure_name": "Stress assessment",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 31,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 82,
+    "appointment_id": 94,
+    "procedure_name": "Viral culture",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 57,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 83,
+    "appointment_id": 97,
+    "procedure_name": "Echocardiogram",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 35,
+    "outcome": "completed",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 84,
+    "appointment_id": 97,
+    "procedure_name": "CHA2DS2-VASc scoring",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 36,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 85,
+    "appointment_id": 100,
+    "procedure_name": "Vitamin D level",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 8,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 86,
+    "appointment_id": 100,
+    "procedure_name": "Calcium level",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 58,
+    "outcome": "completed",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 87,
+    "appointment_id": 100,
+    "procedure_name": "Bone density scan",
+    "procedure_type": "Preventive",
+    "duration_minutes": 21,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 88,
+    "appointment_id": 101,
+    "procedure_name": "HbA1c",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 12,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 89,
+    "appointment_id": 101,
+    "procedure_name": "BMI calculation",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 54,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 90,
+    "appointment_id": 102,
+    "procedure_name": "Nasal examination",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 44,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 91,
+    "appointment_id": 102,
+    "procedure_name": "IgE levels",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 60,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 92,
+    "appointment_id": 102,
+    "procedure_name": "Allergy skin testing",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 45,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 93,
+    "appointment_id": 104,
+    "procedure_name": "Nasal examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 25,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 94,
+    "appointment_id": 108,
+    "procedure_name": "Free T3",
+    "procedure_type": "Preventive",
+    "duration_minutes": 52,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 95,
+    "appointment_id": 108,
+    "procedure_name": "Thyroid antibodies",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 15,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 96,
+    "appointment_id": 109,
+    "procedure_name": "Free T3",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 18,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 97,
+    "appointment_id": 111,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 6,
+    "outcome": "pending review",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 98,
+    "appointment_id": 112,
+    "procedure_name": "H. pylori testing",
+    "procedure_type": "Preventive",
+    "duration_minutes": 19,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 99,
+    "appointment_id": 112,
+    "procedure_name": "Upper endoscopy",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 45,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 100,
+    "appointment_id": 112,
+    "procedure_name": "Stool guaiac test",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 6,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 101,
+    "appointment_id": 117,
+    "procedure_name": "Patch testing",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 13,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 102,
+    "appointment_id": 117,
+    "procedure_name": "Skin biopsy",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 45,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 103,
+    "appointment_id": 118,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 39,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 104,
+    "appointment_id": 118,
+    "procedure_name": "Holter monitor",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 24,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 105,
+    "appointment_id": 118,
+    "procedure_name": "CHA2DS2-VASc scoring",
+    "procedure_type": "Preventive",
+    "duration_minutes": 14,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 106,
+    "appointment_id": 120,
+    "procedure_name": "Blood cultures",
+    "procedure_type": "Preventive",
+    "duration_minutes": 35,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 107,
+    "appointment_id": 121,
+    "procedure_name": "Liver function tests",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 54,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 108,
+    "appointment_id": 121,
+    "procedure_name": "HbA1c",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 55,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 109,
+    "appointment_id": 123,
+    "procedure_name": "HbA1c",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 50,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 110,
+    "appointment_id": 123,
+    "procedure_name": "Cardiovascular assessment",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 21,
+    "outcome": "completed",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 111,
+    "appointment_id": 123,
+    "procedure_name": "Physical examination",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 38,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 112,
+    "appointment_id": 124,
+    "procedure_name": "Skin biopsy",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 59,
+    "outcome": "completed",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 113,
+    "appointment_id": 124,
+    "procedure_name": "Allergy testing",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 23,
+    "outcome": "completed",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 114,
+    "appointment_id": 124,
+    "procedure_name": "Skin examination",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 22,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 115,
+    "appointment_id": 125,
+    "procedure_name": "CBC",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 39,
+    "outcome": "completed",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 116,
+    "appointment_id": 128,
+    "procedure_name": "Reticulocyte count",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 19,
+    "outcome": "completed",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 117,
+    "appointment_id": 131,
+    "procedure_name": "Mental status examination",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 24,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 118,
+    "appointment_id": 132,
+    "procedure_name": "Thyroid antibodies",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 58,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 119,
+    "appointment_id": 133,
+    "procedure_name": "Digital rectal exam",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 17,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 120,
+    "appointment_id": 133,
+    "procedure_name": "Post-void residual",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 12,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 121,
+    "appointment_id": 141,
+    "procedure_name": "Lung auscultation",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 38,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 122,
+    "appointment_id": 141,
+    "procedure_name": "Vital signs",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 48,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 123,
+    "appointment_id": 141,
+    "procedure_name": "Chest X-ray",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 45,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 124,
+    "appointment_id": 143,
+    "procedure_name": "Ferritin",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 60,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 125,
+    "appointment_id": 143,
+    "procedure_name": "Iron studies",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 45,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 126,
+    "appointment_id": 143,
+    "procedure_name": "Reticulocyte count",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 15,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 127,
+    "appointment_id": 144,
+    "procedure_name": "TSH",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 42,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 128,
+    "appointment_id": 149,
+    "procedure_name": "CBC",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 36,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 129,
+    "appointment_id": 152,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 49,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 130,
+    "appointment_id": 153,
+    "procedure_name": "Nasal examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 56,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 131,
+    "appointment_id": 154,
+    "procedure_name": "Neurological examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 7,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 132,
+    "appointment_id": 154,
+    "procedure_name": "Physical examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 39,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 133,
+    "appointment_id": 156,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 22,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 134,
+    "appointment_id": 156,
+    "procedure_name": "CT chest",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 38,
+    "outcome": "normal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 135,
+    "appointment_id": 156,
+    "procedure_name": "ABG",
+    "procedure_type": "Preventive",
+    "duration_minutes": 57,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 136,
+    "appointment_id": 159,
+    "procedure_name": "Cardiovascular assessment",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 6,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 137,
+    "appointment_id": 159,
+    "procedure_name": "HbA1c",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 25,
+    "outcome": "completed",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 138,
+    "appointment_id": 159,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 38,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 139,
+    "appointment_id": 162,
+    "procedure_name": "Thyroid antibodies",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 11,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 140,
+    "appointment_id": 162,
+    "procedure_name": "Free T3",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 58,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 141,
+    "appointment_id": 164,
+    "procedure_name": "Uric acid level",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 41,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 142,
+    "appointment_id": 164,
+    "procedure_name": "Joint aspiration",
+    "procedure_type": "Preventive",
+    "duration_minutes": 8,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 143,
+    "appointment_id": 165,
+    "procedure_name": "Digital rectal exam",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 46,
+    "outcome": "pending review",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 144,
+    "appointment_id": 166,
+    "procedure_name": "Colonoscopy",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 57,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 145,
+    "appointment_id": 166,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Preventive",
+    "duration_minutes": 38,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 146,
+    "appointment_id": 166,
+    "procedure_name": "Stool studies",
+    "procedure_type": "Preventive",
+    "duration_minutes": 9,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 147,
+    "appointment_id": 167,
+    "procedure_name": "Stool guaiac test",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 17,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 148,
+    "appointment_id": 169,
+    "procedure_name": "Neurological assessment",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 54,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 149,
+    "appointment_id": 170,
+    "procedure_name": "CBC",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 40,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 150,
+    "appointment_id": 170,
+    "procedure_name": "PHQ-9 screening",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 39,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 151,
+    "appointment_id": 170,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Preventive",
+    "duration_minutes": 25,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 152,
+    "appointment_id": 174,
+    "procedure_name": "Lipid panel",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 41,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 153,
+    "appointment_id": 174,
+    "procedure_name": "Bone density scan",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 54,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 154,
+    "appointment_id": 174,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Preventive",
+    "duration_minutes": 33,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 155,
+    "appointment_id": 175,
+    "procedure_name": "Free T3",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 38,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 156,
+    "appointment_id": 177,
+    "procedure_name": "Urine culture",
+    "procedure_type": "Preventive",
+    "duration_minutes": 6,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 157,
+    "appointment_id": 178,
+    "procedure_name": "CBC",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 21,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 158,
+    "appointment_id": 178,
+    "procedure_name": "Urinalysis",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 21,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 159,
+    "appointment_id": 179,
+    "procedure_name": "CT head",
+    "procedure_type": "Preventive",
+    "duration_minutes": 55,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 160,
+    "appointment_id": 179,
+    "procedure_name": "MRI brain",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 57,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 161,
+    "appointment_id": 179,
+    "procedure_name": "Neurological examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 7,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 162,
+    "appointment_id": 180,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Preventive",
+    "duration_minutes": 57,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 163,
+    "appointment_id": 186,
+    "procedure_name": "Vitamin D level",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 8,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 164,
+    "appointment_id": 187,
+    "procedure_name": "Chest X-ray",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 14,
+    "outcome": "completed",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 165,
+    "appointment_id": 187,
+    "procedure_name": "Pulse oximetry",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 53,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 166,
+    "appointment_id": 187,
+    "procedure_name": "ABG",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 32,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 167,
+    "appointment_id": 189,
+    "procedure_name": "Physical examination",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 40,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 168,
+    "appointment_id": 189,
+    "procedure_name": "Lumbar X-ray",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 30,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 169,
+    "appointment_id": 191,
+    "procedure_name": "Sleep diary review",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 36,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 170,
+    "appointment_id": 193,
+    "procedure_name": "Basic metabolic panel",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 22,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 171,
+    "appointment_id": 193,
+    "procedure_name": "BNP",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 12,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 172,
+    "appointment_id": 193,
+    "procedure_name": "Echocardiogram",
+    "procedure_type": "Preventive",
+    "duration_minutes": 27,
+    "outcome": "normal",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 173,
+    "appointment_id": 194,
+    "procedure_name": "Physical examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 44,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 174,
+    "appointment_id": 194,
+    "procedure_name": "Viral culture",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 7,
+    "outcome": "normal",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 175,
+    "appointment_id": 194,
+    "procedure_name": "Tzanck smear",
+    "procedure_type": "Preventive",
+    "duration_minutes": 14,
+    "outcome": "completed",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 176,
+    "appointment_id": 197,
+    "procedure_name": "Echocardiogram",
+    "procedure_type": "Preventive",
+    "duration_minutes": 49,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 177,
+    "appointment_id": 197,
+    "procedure_name": "Holter monitor",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 35,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 178,
+    "appointment_id": 197,
+    "procedure_name": "ECG",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 52,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 179,
+    "appointment_id": 198,
+    "procedure_name": "Holter monitor",
+    "procedure_type": "Therapeutic",
+    "duration_minutes": 49,
+    "outcome": "completed",
+    "notes": "Procedure completed. Normal findings."
+  },
+  {
+    "procedure_id": 180,
+    "appointment_id": 198,
+    "procedure_name": "Thyroid function tests",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 21,
+    "outcome": "normal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 181,
+    "appointment_id": 198,
+    "procedure_name": "CBC",
+    "procedure_type": "Preventive",
+    "duration_minutes": 17,
+    "outcome": "requires follow-up",
+    "notes": "Procedure completed. Results pending."
+  },
+  {
+    "procedure_id": 182,
+    "appointment_id": 199,
+    "procedure_name": "Throat examination",
+    "procedure_type": "Preventive",
+    "duration_minutes": 47,
+    "outcome": "abnormal",
+    "notes": "Procedure completed. No complications."
+  },
+  {
+    "procedure_id": 183,
+    "appointment_id": 199,
+    "procedure_name": "Lung auscultation",
+    "procedure_type": "Diagnostic",
+    "duration_minutes": 23,
+    "outcome": "pending review",
+    "notes": "Procedure completed. Patient tolerated well."
+  },
+  {
+    "procedure_id": 184,
+    "appointment_id": 199,
+    "procedure_name": "Vital signs",
+    "procedure_type": "Monitoring",
+    "duration_minutes": 37,
+    "outcome": "completed",
+    "notes": "Procedure completed. Results pending."
+  }
+]

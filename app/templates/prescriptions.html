@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}Prescriptions{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between align-items-center">
+    <h1>Prescriptions</h1>
+    <div>
+        {% if view_all %}
+        <a href="{{ url_for('main.prescriptions') }}" class="btn btn-outline-secondary">View My Prescriptions</a>
+        {% else %}
+        <a href="{{ url_for('main.prescriptions', view='all') }}" class="btn btn-outline-secondary">View All Prescriptions</a>
+        {% endif %}
+        <a href="{{ url_for('main.create_prescription') }}" class="btn btn-primary">Add Prescription</a>
+    </div>
+</div>
+
+<p class="text-muted">
+    {% if view_all %}
+    Showing: All Prescriptions
+    {% else %}
+    Showing: Your Prescriptions
+    {% endif %}
+</p>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Patient</th>
+            <th>Medication</th>
+            <th>Dosage</th>
+            <th>Frequency</th>
+            <th>Duration</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for p in prescriptions %}
+        <tr>
+            <td>{{ p.prescription_id }}</td>
+            <td>{{ p.patient_first_name }} {{ p.patient_last_name }}</td>
+            <td>{{ p.medication_name }}</td>
+            <td>{{ p.dosage or '-' }}</td>
+            <td>{{ p.frequency or '-' }}</td>
+            <td>{{ p.duration or '-' }}</td>
+            <td>{{ p.prescribed_date }}</td>
+            <td>
+                <a href="{{ url_for('main.edit_prescription', id=p.prescription_id) }}" class="btn btn-sm btn-warning">Edit</a>
+                <form action="{{ url_for('main.delete_prescription', id=p.prescription_id) }}" method="POST" class="d-inline">
+                    <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Delete this prescription?')">Delete</button>
+                </form>
+            </td>
+        </tr>
+        {% else %}
+        <tr>
+            <td colspan="8" class="text-center text-muted">No prescriptions found.</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

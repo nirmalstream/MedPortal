@@ -1,0 +1,282 @@
+[
+  {
+    "condition": "Essential Hypertension",
+    "symptoms": ["headache", "dizziness", "blurred vision", "chest discomfort", "shortness of breath", "nosebleeds", "fatigue"],
+    "medications": ["Lisinopril", "Amlodipine", "Losartan", "Hydrochlorothiazide", "Metoprolol"],
+    "procedures": ["Blood pressure measurement", "ECG", "Lipid panel", "Basic metabolic panel", "Urinalysis"],
+    "chief_complaints": ["high blood pressure", "headache with dizziness", "elevated BP reading", "routine BP check"]
+  },
+  {
+    "condition": "Type 2 Diabetes Mellitus",
+    "symptoms": ["increased thirst", "frequent urination", "fatigue", "blurred vision", "slow healing wounds", "numbness in hands or feet", "weight loss"],
+    "medications": ["Metformin", "Glipizide", "Sitagliptin", "Empagliflozin", "Insulin glargine"],
+    "procedures": ["Blood glucose test", "HbA1c test", "Lipid panel", "Comprehensive metabolic panel", "Foot examination"],
+    "chief_complaints": ["elevated blood sugar", "diabetes follow-up", "increased thirst and urination", "blood sugar management"]
+  },
+  {
+    "condition": "Hyperlipidemia",
+    "symptoms": ["usually asymptomatic", "xanthomas", "arcus corneae", "fatigue"],
+    "medications": ["Atorvastatin", "Rosuvastatin", "Simvastatin", "Ezetimibe", "Fenofibrate"],
+    "procedures": ["Lipid panel", "Liver function tests", "Cardiovascular risk assessment"],
+    "chief_complaints": ["high cholesterol", "cholesterol check", "lipid management", "abnormal lipid panel"]
+  },
+  {
+    "condition": "Major Depressive Disorder",
+    "symptoms": ["persistent sadness", "loss of interest", "sleep disturbances", "fatigue", "difficulty concentrating", "appetite changes", "feelings of worthlessness"],
+    "medications": ["Sertraline", "Escitalopram", "Fluoxetine", "Bupropion", "Venlafaxine"],
+    "procedures": ["PHQ-9 screening", "Mental status examination", "Thyroid function tests", "CBC"],
+    "chief_complaints": ["feeling depressed", "low mood", "depression follow-up", "sadness and fatigue"]
+  },
+  {
+    "condition": "Generalized Anxiety Disorder",
+    "symptoms": ["excessive worry", "restlessness", "fatigue", "difficulty concentrating", "irritability", "muscle tension", "sleep problems"],
+    "medications": ["Buspirone", "Sertraline", "Escitalopram", "Duloxetine", "Hydroxyzine"],
+    "procedures": ["GAD-7 screening", "Mental status examination", "Thyroid function tests"],
+    "chief_complaints": ["anxiety", "excessive worry", "feeling anxious", "panic symptoms"]
+  },
+  {
+    "condition": "Insomnia",
+    "symptoms": ["difficulty falling asleep", "difficulty staying asleep", "waking too early", "daytime fatigue", "irritability", "difficulty concentrating"],
+    "medications": ["Zolpidem", "Trazodone", "Melatonin", "Eszopiclone", "Doxepin"],
+    "procedures": ["Sleep history assessment", "Sleep diary review", "Sleep study referral"],
+    "chief_complaints": ["trouble sleeping", "insomnia", "cannot fall asleep", "waking up at night"]
+  },
+  {
+    "condition": "Acute Upper Respiratory Infection",
+    "symptoms": ["runny nose", "nasal congestion", "sore throat", "cough", "sneezing", "low-grade fever", "malaise"],
+    "medications": ["Acetaminophen", "Ibuprofen", "Pseudoephedrine", "Dextromethorphan", "Guaifenesin"],
+    "procedures": ["Throat examination", "Vital signs", "Rapid strep test", "Lung auscultation"],
+    "chief_complaints": ["cold symptoms", "runny nose and cough", "sore throat", "upper respiratory symptoms"]
+  },
+  {
+    "condition": "Acute Bronchitis",
+    "symptoms": ["persistent cough", "mucus production", "chest discomfort", "fatigue", "shortness of breath", "low-grade fever", "wheezing"],
+    "medications": ["Benzonatate", "Albuterol inhaler", "Guaifenesin", "Acetaminophen", "Ibuprofen"],
+    "procedures": ["Lung auscultation", "Chest X-ray", "Pulse oximetry", "Vital signs"],
+    "chief_complaints": ["cough for weeks", "productive cough", "chest congestion", "bronchitis symptoms"]
+  },
+  {
+    "condition": "Community-Acquired Pneumonia",
+    "symptoms": ["cough with phlegm", "fever", "chills", "shortness of breath", "chest pain with breathing", "fatigue", "confusion in elderly"],
+    "medications": ["Azithromycin", "Amoxicillin-clavulanate", "Levofloxacin", "Doxycycline", "Ceftriaxone"],
+    "procedures": ["Chest X-ray", "CBC", "Basic metabolic panel", "Pulse oximetry", "Blood cultures"],
+    "chief_complaints": ["cough and fever", "difficulty breathing", "pneumonia symptoms", "fever with chest pain"]
+  },
+  {
+    "condition": "Asthma",
+    "symptoms": ["wheezing", "shortness of breath", "chest tightness", "coughing especially at night", "difficulty breathing during exercise"],
+    "medications": ["Albuterol inhaler", "Fluticasone inhaler", "Montelukast", "Budesonide-formoterol", "Prednisone"],
+    "procedures": ["Spirometry", "Peak flow measurement", "Lung auscultation", "Allergy testing", "Chest X-ray"],
+    "chief_complaints": ["asthma flare", "wheezing", "shortness of breath", "asthma follow-up"]
+  },
+  {
+    "condition": "COPD",
+    "symptoms": ["chronic cough", "shortness of breath", "wheezing", "chest tightness", "frequent respiratory infections", "fatigue", "mucus production"],
+    "medications": ["Tiotropium", "Fluticasone-salmeterol", "Albuterol", "Prednisone", "Azithromycin"],
+    "procedures": ["Spirometry", "Chest X-ray", "Pulse oximetry", "ABG", "CT chest"],
+    "chief_complaints": ["COPD exacerbation", "worsening shortness of breath", "chronic cough", "COPD follow-up"]
+  },
+  {
+    "condition": "Osteoarthritis",
+    "symptoms": ["joint pain", "stiffness", "decreased range of motion", "joint swelling", "grinding sensation", "bone spurs"],
+    "medications": ["Acetaminophen", "Ibuprofen", "Naproxen", "Meloxicam", "Diclofenac gel", "Duloxetine"],
+    "procedures": ["X-ray of affected joint", "Joint examination", "Range of motion assessment", "MRI"],
+    "chief_complaints": ["knee pain", "hip pain", "joint stiffness", "arthritis pain"]
+  },
+  {
+    "condition": "Rheumatoid Arthritis",
+    "symptoms": ["joint pain and swelling", "morning stiffness lasting hours", "fatigue", "fever", "symmetric joint involvement", "joint deformity"],
+    "medications": ["Methotrexate", "Prednisone", "Hydroxychloroquine", "Sulfasalazine", "Adalimumab"],
+    "procedures": ["Rheumatoid factor", "Anti-CCP antibodies", "ESR", "CRP", "X-ray of hands and feet"],
+    "chief_complaints": ["joint pain and swelling", "morning stiffness", "RA flare", "rheumatoid arthritis follow-up"]
+  },
+  {
+    "condition": "Gout",
+    "symptoms": ["severe joint pain", "swelling", "redness", "warmth", "tenderness", "limited range of motion", "often affects big toe"],
+    "medications": ["Colchicine", "Indomethacin", "Prednisone", "Allopurinol", "Febuxostat"],
+    "procedures": ["Joint aspiration", "Uric acid level", "X-ray of affected joint", "Kidney function tests"],
+    "chief_complaints": ["sudden joint pain", "swollen painful big toe", "gout flare", "joint swelling and redness"]
+  },
+  {
+    "condition": "Low Back Pain",
+    "symptoms": ["aching pain in lower back", "muscle stiffness", "limited mobility", "pain radiating to legs", "difficulty standing straight"],
+    "medications": ["Ibuprofen", "Naproxen", "Cyclobenzaprine", "Acetaminophen", "Meloxicam"],
+    "procedures": ["Physical examination", "Lumbar X-ray", "MRI lumbar spine", "Neurological assessment"],
+    "chief_complaints": ["back pain", "lower back pain", "threw out my back", "chronic back pain"]
+  },
+  {
+    "condition": "Migraine",
+    "symptoms": ["severe headache", "throbbing pain", "nausea", "vomiting", "sensitivity to light", "sensitivity to sound", "aura"],
+    "medications": ["Sumatriptan", "Rizatriptan", "Topiramate", "Propranolol", "Amitriptyline"],
+    "procedures": ["Neurological examination", "CT head", "MRI brain", "Headache diary review"],
+    "chief_complaints": ["severe headache", "migraine", "headache with nausea", "recurring headaches"]
+  },
+  {
+    "condition": "Tension Headache",
+    "symptoms": ["dull aching head pain", "sensation of tightness around head", "tenderness in scalp", "neck and shoulder muscle tightness"],
+    "medications": ["Acetaminophen", "Ibuprofen", "Naproxen", "Aspirin", "Amitriptyline"],
+    "procedures": ["Physical examination", "Neurological examination", "Stress assessment"],
+    "chief_complaints": ["headache", "tension headache", "head pain", "pressure in head"]
+  },
+  {
+    "condition": "GERD",
+    "symptoms": ["heartburn", "regurgitation", "difficulty swallowing", "chest pain", "chronic cough", "hoarseness", "sensation of lump in throat"],
+    "medications": ["Omeprazole", "Pantoprazole", "Famotidine", "Esomeprazole", "Sucralfate"],
+    "procedures": ["Upper endoscopy", "pH monitoring", "Esophageal manometry", "H. pylori testing"],
+    "chief_complaints": ["heartburn", "acid reflux", "burning in chest", "GERD symptoms"]
+  },
+  {
+    "condition": "Peptic Ulcer Disease",
+    "symptoms": ["burning stomach pain", "bloating", "nausea", "vomiting", "heartburn", "dark stools", "weight loss"],
+    "medications": ["Omeprazole", "Pantoprazole", "Sucralfate", "Amoxicillin", "Clarithromycin"],
+    "procedures": ["Upper endoscopy", "H. pylori testing", "CBC", "Stool guaiac test"],
+    "chief_complaints": ["stomach pain", "burning abdominal pain", "ulcer symptoms", "epigastric pain"]
+  },
+  {
+    "condition": "Irritable Bowel Syndrome",
+    "symptoms": ["abdominal pain", "bloating", "gas", "diarrhea", "constipation", "alternating bowel habits", "mucus in stool"],
+    "medications": ["Dicyclomine", "Hyoscyamine", "Loperamide", "Linaclotide", "Amitriptyline"],
+    "procedures": ["Colonoscopy", "CBC", "Thyroid function tests", "Stool studies", "Celiac panel"],
+    "chief_complaints": ["abdominal pain and bloating", "IBS symptoms", "irregular bowel movements", "stomach cramps"]
+  },
+  {
+    "condition": "Urinary Tract Infection",
+    "symptoms": ["burning with urination", "frequent urination", "urgency", "cloudy urine", "blood in urine", "pelvic pain", "strong-smelling urine"],
+    "medications": ["Nitrofurantoin", "Trimethoprim-sulfamethoxazole", "Ciprofloxacin", "Cephalexin", "Fosfomycin"],
+    "procedures": ["Urinalysis", "Urine culture", "CBC", "Basic metabolic panel"],
+    "chief_complaints": ["burning urination", "UTI symptoms", "painful urination", "frequent urination"]
+  },
+  {
+    "condition": "Acute Sinusitis",
+    "symptoms": ["facial pain and pressure", "nasal congestion", "thick nasal discharge", "reduced sense of smell", "cough", "headache", "fever"],
+    "medications": ["Amoxicillin", "Amoxicillin-clavulanate", "Fluticasone nasal spray", "Pseudoephedrine", "Guaifenesin"],
+    "procedures": ["Physical examination", "Nasal endoscopy", "CT sinuses", "Vital signs"],
+    "chief_complaints": ["sinus pain", "sinus infection", "facial pressure", "congestion and headache"]
+  },
+  {
+    "condition": "Allergic Rhinitis",
+    "symptoms": ["sneezing", "runny nose", "nasal congestion", "itchy nose and eyes", "watery eyes", "postnasal drip"],
+    "medications": ["Cetirizine", "Loratadine", "Fexofenadine", "Fluticasone nasal spray", "Montelukast"],
+    "procedures": ["Allergy skin testing", "Nasal examination", "IgE levels"],
+    "chief_complaints": ["allergies", "seasonal allergies", "itchy watery eyes", "sneezing and runny nose"]
+  },
+  {
+    "condition": "Hypothyroidism",
+    "symptoms": ["fatigue", "weight gain", "cold intolerance", "constipation", "dry skin", "hair loss", "depression", "muscle weakness"],
+    "medications": ["Levothyroxine", "Liothyronine", "Armour Thyroid"],
+    "procedures": ["TSH", "Free T4", "Thyroid antibodies", "Lipid panel"],
+    "chief_complaints": ["fatigue and weight gain", "thyroid check", "hypothyroid follow-up", "feeling cold and tired"]
+  },
+  {
+    "condition": "Hyperthyroidism",
+    "symptoms": ["weight loss", "rapid heartbeat", "anxiety", "tremor", "sweating", "heat intolerance", "increased appetite", "insomnia"],
+    "medications": ["Methimazole", "Propylthiouracil", "Propranolol", "Atenolol"],
+    "procedures": ["TSH", "Free T4", "Free T3", "Thyroid antibodies", "Thyroid uptake scan"],
+    "chief_complaints": ["weight loss and anxiety", "rapid heartbeat", "hyperthyroid symptoms", "thyroid follow-up"]
+  },
+  {
+    "condition": "Iron Deficiency Anemia",
+    "symptoms": ["fatigue", "weakness", "pale skin", "shortness of breath", "dizziness", "cold hands and feet", "brittle nails"],
+    "medications": ["Ferrous sulfate", "Ferrous gluconate", "Iron sucrose IV", "Vitamin C"],
+    "procedures": ["CBC", "Iron studies", "Ferritin", "Reticulocyte count", "Stool guaiac"],
+    "chief_complaints": ["fatigue and weakness", "anemia follow-up", "feeling tired", "pale and dizzy"]
+  },
+  {
+    "condition": "Atrial Fibrillation",
+    "symptoms": ["palpitations", "irregular heartbeat", "fatigue", "shortness of breath", "dizziness", "chest discomfort", "reduced exercise tolerance"],
+    "medications": ["Metoprolol", "Diltiazem", "Apixaban", "Rivaroxaban", "Warfarin", "Amiodarone"],
+    "procedures": ["ECG", "Echocardiogram", "Holter monitor", "CBC", "Thyroid function tests", "CHA2DS2-VASc scoring"],
+    "chief_complaints": ["palpitations", "irregular heartbeat", "AFib follow-up", "racing heart"]
+  },
+  {
+    "condition": "Heart Failure",
+    "symptoms": ["shortness of breath", "fatigue", "swelling in legs", "rapid heartbeat", "persistent cough", "weight gain from fluid", "reduced exercise tolerance"],
+    "medications": ["Lisinopril", "Carvedilol", "Furosemide", "Spironolactone", "Sacubitril-valsartan"],
+    "procedures": ["Echocardiogram", "BNP", "Chest X-ray", "ECG", "Basic metabolic panel"],
+    "chief_complaints": ["shortness of breath", "swollen legs", "heart failure follow-up", "worsening fatigue"]
+  },
+  {
+    "condition": "Coronary Artery Disease",
+    "symptoms": ["chest pain", "shortness of breath", "fatigue", "pain radiating to arm or jaw", "nausea", "sweating"],
+    "medications": ["Aspirin", "Atorvastatin", "Metoprolol", "Lisinopril", "Nitroglycerin", "Clopidogrel"],
+    "procedures": ["ECG", "Stress test", "Echocardiogram", "Cardiac catheterization", "Lipid panel", "Troponin"],
+    "chief_complaints": ["chest pain", "angina", "CAD follow-up", "chest pressure with exertion"]
+  },
+  {
+    "condition": "Acute Otitis Media",
+    "symptoms": ["ear pain", "fever", "hearing difficulty", "fluid drainage from ear", "irritability", "pulling at ear", "balance problems"],
+    "medications": ["Amoxicillin", "Amoxicillin-clavulanate", "Acetaminophen", "Ibuprofen", "Ofloxacin ear drops"],
+    "procedures": ["Otoscopic examination", "Tympanometry", "Vital signs"],
+    "chief_complaints": ["ear pain", "ear infection", "child pulling at ear", "ear pain with fever"]
+  },
+  {
+    "condition": "Contact Dermatitis",
+    "symptoms": ["red rash", "itching", "dry cracked skin", "bumps and blisters", "swelling", "burning sensation"],
+    "medications": ["Hydrocortisone cream", "Triamcinolone cream", "Diphenhydramine", "Cetirizine", "Prednisone"],
+    "procedures": ["Skin examination", "Patch testing", "Skin biopsy"],
+    "chief_complaints": ["itchy rash", "skin reaction", "rash from exposure", "contact rash"]
+  },
+  {
+    "condition": "Eczema",
+    "symptoms": ["dry skin", "itching", "red patches", "small raised bumps", "thickened skin", "raw sensitive skin from scratching"],
+    "medications": ["Hydrocortisone cream", "Triamcinolone cream", "Tacrolimus ointment", "Cetirizine", "Moisturizers"],
+    "procedures": ["Skin examination", "Allergy testing", "Skin biopsy"],
+    "chief_complaints": ["itchy dry skin", "eczema flare", "skin rash", "chronic skin irritation"]
+  },
+  {
+    "condition": "Cellulitis",
+    "symptoms": ["red expanding skin area", "swelling", "warmth", "tenderness", "fever", "red streaking", "skin dimpling"],
+    "medications": ["Cephalexin", "Dicloxacillin", "Clindamycin", "Trimethoprim-sulfamethoxazole", "Amoxicillin-clavulanate"],
+    "procedures": ["Skin examination", "CBC", "Blood cultures", "Wound culture", "Mark borders"],
+    "chief_complaints": ["red swollen skin", "skin infection", "spreading redness", "hot swollen area"]
+  },
+  {
+    "condition": "Benign Prostatic Hyperplasia",
+    "symptoms": ["frequent urination", "urgency", "weak urine stream", "difficulty starting urination", "incomplete emptying", "nocturia", "dribbling"],
+    "medications": ["Tamsulosin", "Finasteride", "Dutasteride", "Alfuzosin", "Silodosin"],
+    "procedures": ["Digital rectal exam", "PSA", "Urinalysis", "Post-void residual", "Uroflowmetry"],
+    "chief_complaints": ["difficulty urinating", "frequent urination at night", "BPH follow-up", "weak urine stream"]
+  },
+  {
+    "condition": "Erectile Dysfunction",
+    "symptoms": ["difficulty getting erection", "difficulty maintaining erection", "reduced sexual desire"],
+    "medications": ["Sildenafil", "Tadalafil", "Vardenafil", "Avanafil"],
+    "procedures": ["Physical examination", "Testosterone level", "Lipid panel", "HbA1c", "Cardiovascular assessment"],
+    "chief_complaints": ["erectile dysfunction", "ED follow-up", "difficulty with erections", "sexual dysfunction"]
+  },
+  {
+    "condition": "Menopause",
+    "symptoms": ["hot flashes", "night sweats", "mood changes", "vaginal dryness", "sleep problems", "weight gain", "irregular periods"],
+    "medications": ["Estradiol", "Conjugated estrogens", "Paroxetine", "Gabapentin", "Vaginal estrogen"],
+    "procedures": ["FSH level", "Estradiol level", "Bone density scan", "Lipid panel", "Thyroid function tests"],
+    "chief_complaints": ["hot flashes", "menopause symptoms", "night sweats", "menopausal follow-up"]
+  },
+  {
+    "condition": "Vitamin D Deficiency",
+    "symptoms": ["fatigue", "bone pain", "muscle weakness", "muscle aches", "depression", "impaired wound healing"],
+    "medications": ["Cholecalciferol", "Ergocalciferol", "Calcium with vitamin D"],
+    "procedures": ["Vitamin D level", "Calcium level", "PTH level", "Bone density scan"],
+    "chief_complaints": ["vitamin D check", "fatigue and weakness", "bone pain", "vitamin D follow-up"]
+  },
+  {
+    "condition": "Obesity",
+    "symptoms": ["excess body weight", "shortness of breath", "joint pain", "fatigue", "snoring", "sweating", "difficulty with physical activity"],
+    "medications": ["Phentermine", "Orlistat", "Semaglutide", "Liraglutide", "Topiramate-phentermine"],
+    "procedures": ["BMI calculation", "Lipid panel", "HbA1c", "Liver function tests", "Thyroid function tests", "Sleep study"],
+    "chief_complaints": ["weight management", "weight loss help", "obesity follow-up", "difficulty losing weight"]
+  },
+  {
+    "condition": "Conjunctivitis",
+    "symptoms": ["red eye", "itchy eyes", "tearing", "discharge", "gritty feeling", "crusting of eyelids", "sensitivity to light"],
+    "medications": ["Erythromycin ophthalmic ointment", "Ofloxacin eye drops", "Artificial tears", "Ketotifen eye drops"],
+    "procedures": ["Eye examination", "Conjunctival culture", "Slit lamp examination"],
+    "chief_complaints": ["red eye", "eye discharge", "pink eye", "itchy red eyes"]
+  },
+  {
+    "condition": "Shingles",
+    "symptoms": ["painful rash", "blisters", "burning sensation", "tingling", "sensitivity to touch", "fever", "headache", "fatigue"],
+    "medications": ["Valacyclovir", "Acyclovir", "Famciclovir", "Gabapentin", "Lidocaine patch"],
+    "procedures": ["Physical examination", "Viral culture", "PCR testing", "Tzanck smear"],
+    "chief_complaints": ["painful rash", "shingles", "blistering rash", "burning skin pain"]
+  }
+]

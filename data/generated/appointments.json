@@ -1,0 +1,1802 @@
+[
+  {
+    "appointment_id": 1,
+    "patient_id": 8,
+    "doctor_id": 5,
+    "appointment_date": "2024-12-04T11:49:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "shortness of breath",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 2,
+    "patient_id": 41,
+    "doctor_id": 5,
+    "appointment_date": "2025-02-19T12:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "spreading redness",
+    "clinical_notes": "Patient complains of red swollen skin ongoing for 1 week. Associated symptoms: fever, skin dimpling, red expanding skin area. Alert and oriented. Working diagnosis: Cellulitis. Start Amoxicillin-clavulanate. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 3,
+    "patient_id": 16,
+    "doctor_id": 1,
+    "appointment_date": "2025-01-12T09:19:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "severe headache",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 4,
+    "patient_id": 49,
+    "doctor_id": 9,
+    "appointment_date": "2025-08-03T15:49:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "pneumonia symptoms",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 5,
+    "patient_id": 34,
+    "doctor_id": 10,
+    "appointment_date": "2025-09-05T11:04:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "worsening fatigue",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 6,
+    "patient_id": 43,
+    "doctor_id": 6,
+    "appointment_date": "2025-07-22T08:49:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "angina",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 7,
+    "patient_id": 5,
+    "doctor_id": 6,
+    "appointment_date": "2025-03-30T16:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "increased thirst and urination",
+    "clinical_notes": "Patient presents with elevated blood sugar. Reports increased thirst, weight loss, numbness in hands or feet for 1 month. Patient has history of similar symptoms. Assessment: Type 2 Diabetes Mellitus. Plan: Begin treatment with Glipizide. Schedule follow-up in 1 week."
+  },
+  {
+    "appointment_id": 8,
+    "patient_id": 43,
+    "doctor_id": 8,
+    "appointment_date": "2025-09-21T17:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "joint swelling and redness",
+    "clinical_notes": "Patient presents with gout flare. Reports swelling, warmth, limited range of motion for 2 weeks. No acute distress noted. Assessment: Gout. Plan: Continue monitoring. Start Indomethacin."
+  },
+  {
+    "appointment_id": 9,
+    "patient_id": 47,
+    "doctor_id": 1,
+    "appointment_date": "2025-05-25T08:49:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "runny nose and cough",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 10,
+    "patient_id": 13,
+    "doctor_id": 9,
+    "appointment_date": "2025-03-06T12:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "angina",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 11,
+    "patient_id": 5,
+    "doctor_id": 8,
+    "appointment_date": "2025-11-01T15:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "hot flashes",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 12,
+    "patient_id": 49,
+    "doctor_id": 4,
+    "appointment_date": "2025-08-06T11:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "COPD follow-up",
+    "clinical_notes": "Patient presents with chronic cough for 2 weeks. Patient reports chronic cough, shortness of breath, chest tightness. No fever present. Impression: COPD. Recommendation: Continue monitoring. Start Tiotropium."
+  },
+  {
+    "appointment_id": 13,
+    "patient_id": 10,
+    "doctor_id": 4,
+    "appointment_date": "2025-01-01T16:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "stomach pain",
+    "clinical_notes": "Patient complains of burning abdominal pain ongoing for 2 days. Associated symptoms: dark stools, nausea, burning stomach pain. Patient appears uncomfortable but stable. Working diagnosis: Peptic Ulcer Disease. Omeprazole prescribed. Patient education provided. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 14,
+    "patient_id": 12,
+    "doctor_id": 2,
+    "appointment_date": "2025-04-02T13:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "eye discharge",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 15,
+    "patient_id": 38,
+    "doctor_id": 10,
+    "appointment_date": "2025-07-05T17:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "high cholesterol",
+    "clinical_notes": "Patient complains of lipid management ongoing for 2 weeks. Associated symptoms: arcus corneae, usually asymptomatic, xanthomas. Vital signs stable. Working diagnosis: Hyperlipidemia. Prescribe Rosuvastatin. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 16,
+    "patient_id": 1,
+    "doctor_id": 8,
+    "appointment_date": "2025-01-23T08:49:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "blistering rash",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 17,
+    "patient_id": 9,
+    "doctor_id": 6,
+    "appointment_date": "2025-06-10T11:49:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "panic symptoms",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 18,
+    "patient_id": 35,
+    "doctor_id": 5,
+    "appointment_date": "2025-11-02T15:34:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "blistering rash",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 19,
+    "patient_id": 43,
+    "doctor_id": 2,
+    "appointment_date": "2025-01-26T15:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "cough and fever",
+    "clinical_notes": "Chief complaint: fever with chest pain. Duration: 1 week. Symptoms include chills, confusion in elderly, chest pain with breathing. Alert and oriented. Diagnosis: Community-Acquired Pneumonia. Treatment: Begin treatment with Amoxicillin-clavulanate. Schedule follow-up in 1 month."
+  },
+  {
+    "appointment_id": 20,
+    "patient_id": 6,
+    "doctor_id": 7,
+    "appointment_date": "2025-05-22T10:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "acid reflux",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 21,
+    "patient_id": 48,
+    "doctor_id": 8,
+    "appointment_date": "2025-09-16T07:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "hot flashes",
+    "clinical_notes": "Patient presents with menopause symptoms for 2 weeks. Patient reports hot flashes, weight gain, night sweats. Patient has history of similar symptoms. Impression: Menopause. Recommendation: Vaginal estrogen prescribed. Patient education provided. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 22,
+    "patient_id": 20,
+    "doctor_id": 6,
+    "appointment_date": "2025-03-20T10:34:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "lipid management",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 23,
+    "patient_id": 50,
+    "doctor_id": 9,
+    "appointment_date": "2025-02-20T10:49:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "irregular heartbeat",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 24,
+    "patient_id": 27,
+    "doctor_id": 1,
+    "appointment_date": "2025-05-22T13:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "joint stiffness",
+    "clinical_notes": "Patient complains of hip pain ongoing for a few days. Associated symptoms: decreased range of motion, stiffness, joint pain. No acute distress noted. Working diagnosis: Osteoarthritis. Prescribe Meloxicam. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 25,
+    "patient_id": 20,
+    "doctor_id": 4,
+    "appointment_date": "2025-03-11T14:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "threw out my back",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 26,
+    "patient_id": 5,
+    "doctor_id": 5,
+    "appointment_date": "2025-06-25T16:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "itchy watery eyes",
+    "clinical_notes": "Patient presents with allergies for 1 month. Patient reports sneezing, postnasal drip, nasal congestion. No acute distress noted. Impression: Allergic Rhinitis. Recommendation: Start Loratadine. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 27,
+    "patient_id": 47,
+    "doctor_id": 6,
+    "appointment_date": "2025-08-21T09:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "shortness of breath",
+    "clinical_notes": "Patient presents with swollen legs. Reports persistent cough, fatigue, swelling in legs for 1 week. No acute distress noted. Assessment: Heart Failure. Plan: Lisinopril prescribed. Patient education provided. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 28,
+    "patient_id": 43,
+    "doctor_id": 6,
+    "appointment_date": "2025-02-04T12:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "shingles",
+    "clinical_notes": "Chief complaint: burning skin pain. Duration: several weeks. Symptoms include headache, burning sensation, tingling. No acute distress noted. Diagnosis: Shingles. Treatment: Prescribe Famciclovir. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 29,
+    "patient_id": 40,
+    "doctor_id": 10,
+    "appointment_date": "2024-12-03T12:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "stomach cramps",
+    "clinical_notes": "Patient complains of stomach cramps ongoing for several weeks. Associated symptoms: bloating, diarrhea, constipation. Patient has history of similar symptoms. Working diagnosis: Irritable Bowel Syndrome. Continue monitoring. Start Amitriptyline."
+  },
+  {
+    "appointment_id": 30,
+    "patient_id": 48,
+    "doctor_id": 3,
+    "appointment_date": "2025-11-07T17:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "trouble sleeping",
+    "clinical_notes": "Chief complaint: trouble sleeping. Duration: 3 days. Symptoms include difficulty falling asleep, difficulty staying asleep, waking too early. No acute distress noted. Diagnosis: Insomnia. Treatment: Start Trazodone. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 31,
+    "patient_id": 30,
+    "doctor_id": 7,
+    "appointment_date": "2025-11-24T14:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "vitamin D follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 32,
+    "patient_id": 16,
+    "doctor_id": 3,
+    "appointment_date": "2025-01-26T13:49:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "headache with dizziness",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 33,
+    "patient_id": 45,
+    "doctor_id": 9,
+    "appointment_date": "2025-04-09T09:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "ear infection",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 34,
+    "patient_id": 30,
+    "doctor_id": 9,
+    "appointment_date": "2025-07-17T17:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "night sweats",
+    "clinical_notes": "Patient complains of menopause symptoms ongoing for a few days. Associated symptoms: irregular periods, sleep problems, vaginal dryness. No fever present. Working diagnosis: Menopause. Begin treatment with Conjugated estrogens. Schedule follow-up in 3 months."
+  },
+  {
+    "appointment_id": 35,
+    "patient_id": 50,
+    "doctor_id": 9,
+    "appointment_date": "2025-04-22T14:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "eczema flare",
+    "clinical_notes": "Patient presents with itchy dry skin for 3 days. Patient reports raw sensitive skin from scratching, red patches, itching. Patient has history of similar symptoms. Impression: Eczema. Recommendation: Tacrolimus ointment prescribed. Patient education provided. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 36,
+    "patient_id": 25,
+    "doctor_id": 3,
+    "appointment_date": "2025-06-29T13:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "joint swelling and redness",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 37,
+    "patient_id": 4,
+    "doctor_id": 4,
+    "appointment_date": "2025-09-28T08:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "AFib follow-up",
+    "clinical_notes": "Patient complains of irregular heartbeat ongoing for 2 weeks. Associated symptoms: shortness of breath, palpitations, fatigue. Patient has history of similar symptoms. Working diagnosis: Atrial Fibrillation. Apixaban prescribed. Patient education provided. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 38,
+    "patient_id": 28,
+    "doctor_id": 8,
+    "appointment_date": "2025-11-10T13:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "blood sugar management",
+    "clinical_notes": "Patient presents with elevated blood sugar. Reports weight loss, blurred vision, frequent urination for 2 days. No fever present. Assessment: Type 2 Diabetes Mellitus. Plan: Continue monitoring. Start Insulin glargine."
+  },
+  {
+    "appointment_id": 39,
+    "patient_id": 9,
+    "doctor_id": 8,
+    "appointment_date": "2025-06-15T12:49:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "arthritis pain",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 40,
+    "patient_id": 21,
+    "doctor_id": 6,
+    "appointment_date": "2025-07-06T11:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "rapid heartbeat",
+    "clinical_notes": "Chief complaint: weight loss and anxiety. Duration: a few days. Symptoms include insomnia, weight loss, heat intolerance. No significant past medical history. Diagnosis: Hyperthyroidism. Treatment: Start Methimazole. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 41,
+    "patient_id": 13,
+    "doctor_id": 1,
+    "appointment_date": "2025-02-05T14:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "shingles",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 42,
+    "patient_id": 30,
+    "doctor_id": 5,
+    "appointment_date": "2025-10-09T08:49:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "hypothyroid follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 43,
+    "patient_id": 7,
+    "doctor_id": 10,
+    "appointment_date": "2025-09-23T14:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "diabetes follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 44,
+    "patient_id": 5,
+    "doctor_id": 10,
+    "appointment_date": "2025-05-06T16:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "severe headache",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 45,
+    "patient_id": 23,
+    "doctor_id": 9,
+    "appointment_date": "2025-01-07T16:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "heart failure follow-up",
+    "clinical_notes": "Patient presents with swollen legs for 2 weeks. Patient reports shortness of breath, rapid heartbeat, weight gain from fluid. Patient has history of similar symptoms. Impression: Heart Failure. Recommendation: Continue monitoring. Start Lisinopril."
+  },
+  {
+    "appointment_id": 46,
+    "patient_id": 40,
+    "doctor_id": 9,
+    "appointment_date": "2025-10-02T12:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "contact rash",
+    "clinical_notes": "Patient complains of contact rash ongoing for 1 week. Associated symptoms: itching, red rash, dry cracked skin. No significant past medical history. Working diagnosis: Contact Dermatitis. Cetirizine prescribed. Patient education provided. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 47,
+    "patient_id": 21,
+    "doctor_id": 3,
+    "appointment_date": "2025-04-14T13:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "eczema flare",
+    "clinical_notes": "Patient presents with chronic skin irritation. Reports thickened skin, red patches, dry skin for 2 weeks. Patient appears uncomfortable but stable. Assessment: Eczema. Plan: Prescribe Moisturizers. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 48,
+    "patient_id": 45,
+    "doctor_id": 8,
+    "appointment_date": "2024-12-11T09:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "skin rash",
+    "clinical_notes": "Patient presents with skin rash for 2 weeks. Patient reports itching, small raised bumps, raw sensitive skin from scratching. No fever present. Impression: Eczema. Recommendation: Continue monitoring. Start Tacrolimus ointment."
+  },
+  {
+    "appointment_id": 49,
+    "patient_id": 23,
+    "doctor_id": 8,
+    "appointment_date": "2025-03-31T08:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "burning in chest",
+    "clinical_notes": "Chief complaint: burning in chest. Duration: several weeks. Symptoms include difficulty swallowing, heartburn, chronic cough. Patient appears uncomfortable but stable. Diagnosis: GERD. Treatment: Continue monitoring. Start Pantoprazole."
+  },
+  {
+    "appointment_id": 50,
+    "patient_id": 7,
+    "doctor_id": 4,
+    "appointment_date": "2025-03-04T11:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "epigastric pain",
+    "clinical_notes": "Patient presents with ulcer symptoms. Reports dark stools, heartburn, bloating for several weeks. Patient has history of similar symptoms. Assessment: Peptic Ulcer Disease. Plan: Sucralfate prescribed. Patient education provided. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 51,
+    "patient_id": 7,
+    "doctor_id": 1,
+    "appointment_date": "2025-08-05T15:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "vitamin D check",
+    "clinical_notes": "Patient presents with vitamin D follow-up. Reports bone pain, fatigue, muscle weakness for 2 days. Patient appears uncomfortable but stable. Assessment: Vitamin D Deficiency. Plan: Continue monitoring. Start Ergocalciferol."
+  },
+  {
+    "appointment_id": 52,
+    "patient_id": 10,
+    "doctor_id": 3,
+    "appointment_date": "2025-01-15T10:34:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "vitamin D follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 53,
+    "patient_id": 39,
+    "doctor_id": 10,
+    "appointment_date": "2025-08-27T14:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "shingles",
+    "clinical_notes": "Patient presents with painful rash. Reports fatigue, burning sensation, sensitivity to touch for a few days. Patient has history of similar symptoms. Assessment: Shingles. Plan: Gabapentin prescribed. Patient education provided. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 54,
+    "patient_id": 17,
+    "doctor_id": 2,
+    "appointment_date": "2025-09-11T08:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "chronic cough",
+    "clinical_notes": "Patient presents with worsening shortness of breath for 1 week. Patient reports chronic cough, chest tightness, fatigue. No fever present. Impression: COPD. Recommendation: Start Azithromycin. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 55,
+    "patient_id": 45,
+    "doctor_id": 8,
+    "appointment_date": "2025-04-17T16:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "feeling anxious",
+    "clinical_notes": "Patient presents with anxiety for 2 days. Patient reports difficulty concentrating, excessive worry, irritability. Patient has history of similar symptoms. Impression: Generalized Anxiety Disorder. Recommendation: Prescribe Sertraline. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 56,
+    "patient_id": 39,
+    "doctor_id": 10,
+    "appointment_date": "2025-07-30T12:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "ulcer symptoms",
+    "clinical_notes": "Patient presents with stomach pain. Reports nausea, heartburn, dark stools for 2 weeks. No fever present. Assessment: Peptic Ulcer Disease. Plan: Amoxicillin prescribed. Patient education provided. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 57,
+    "patient_id": 39,
+    "doctor_id": 5,
+    "appointment_date": "2025-11-13T16:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "increased thirst and urination",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 58,
+    "patient_id": 37,
+    "doctor_id": 1,
+    "appointment_date": "2025-11-01T15:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "joint stiffness",
+    "clinical_notes": "Patient presents with joint stiffness. Reports stiffness, grinding sensation, joint swelling for 2 weeks. Vital signs stable. Assessment: Osteoarthritis. Plan: Continue monitoring. Start Duloxetine."
+  },
+  {
+    "appointment_id": 59,
+    "patient_id": 43,
+    "doctor_id": 2,
+    "appointment_date": "2025-11-23T15:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "COPD follow-up",
+    "clinical_notes": "Patient presents with chronic cough. Reports fatigue, chest tightness, frequent respiratory infections for 1 week. No significant past medical history. Assessment: COPD. Plan: Begin treatment with Tiotropium. Schedule follow-up in 3 months."
+  },
+  {
+    "appointment_id": 60,
+    "patient_id": 33,
+    "doctor_id": 1,
+    "appointment_date": "2024-12-30T11:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "sexual dysfunction",
+    "clinical_notes": "Patient presents with ED follow-up for 1 week. Patient reports reduced sexual desire, difficulty maintaining erection, difficulty getting erection. No acute distress noted. Impression: Erectile Dysfunction. Recommendation: Sildenafil prescribed. Patient education provided. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 61,
+    "patient_id": 8,
+    "doctor_id": 1,
+    "appointment_date": "2025-12-01T10:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "eye discharge",
+    "clinical_notes": "Chief complaint: itchy red eyes. Duration: 2 days. Symptoms include gritty feeling, red eye, sensitivity to light. No fever present. Diagnosis: Conjunctivitis. Treatment: Start Ketotifen eye drops. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 62,
+    "patient_id": 32,
+    "doctor_id": 5,
+    "appointment_date": "2025-07-03T15:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "spreading redness",
+    "clinical_notes": "Chief complaint: skin infection. Duration: a few days. Symptoms include swelling, tenderness, fever. No significant past medical history. Diagnosis: Cellulitis. Treatment: Dicloxacillin prescribed. Patient education provided. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 63,
+    "patient_id": 50,
+    "doctor_id": 7,
+    "appointment_date": "2025-08-19T11:34:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "facial pressure",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 64,
+    "patient_id": 47,
+    "doctor_id": 5,
+    "appointment_date": "2025-11-05T14:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "weight loss help",
+    "clinical_notes": "Patient complains of obesity follow-up ongoing for a few days. Associated symptoms: fatigue, snoring, difficulty with physical activity. Patient has history of similar symptoms. Working diagnosis: Obesity. Continue monitoring. Start Semaglutide."
+  },
+  {
+    "appointment_id": 65,
+    "patient_id": 37,
+    "doctor_id": 7,
+    "appointment_date": "2025-07-01T08:04:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "chronic back pain",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 66,
+    "patient_id": 46,
+    "doctor_id": 7,
+    "appointment_date": "2025-11-01T10:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "weight loss and anxiety",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 67,
+    "patient_id": 9,
+    "doctor_id": 9,
+    "appointment_date": "2025-01-23T14:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "obesity follow-up",
+    "clinical_notes": "Chief complaint: difficulty losing weight. Duration: a few days. Symptoms include snoring, fatigue, excess body weight. Vital signs stable. Diagnosis: Obesity. Treatment: Start Orlistat. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 68,
+    "patient_id": 40,
+    "doctor_id": 7,
+    "appointment_date": "2025-11-13T16:19:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "cannot fall asleep",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 69,
+    "patient_id": 41,
+    "doctor_id": 8,
+    "appointment_date": "2025-01-07T11:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "ED follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 70,
+    "patient_id": 48,
+    "doctor_id": 2,
+    "appointment_date": "2025-10-23T09:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "swollen legs",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 71,
+    "patient_id": 45,
+    "doctor_id": 5,
+    "appointment_date": "2024-12-31T12:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "increased thirst and urination",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 72,
+    "patient_id": 28,
+    "doctor_id": 3,
+    "appointment_date": "2025-09-18T09:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "headache with nausea",
+    "clinical_notes": "Chief complaint: migraine. Duration: 3 days. Symptoms include throbbing pain, severe headache, sensitivity to light. No acute distress noted. Diagnosis: Migraine. Treatment: Continue monitoring. Start Propranolol."
+  },
+  {
+    "appointment_id": 73,
+    "patient_id": 30,
+    "doctor_id": 5,
+    "appointment_date": "2025-07-29T11:49:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "high blood pressure",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 74,
+    "patient_id": 29,
+    "doctor_id": 6,
+    "appointment_date": "2025-07-08T12:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "obesity follow-up",
+    "clinical_notes": "Patient presents with difficulty losing weight. Reports difficulty with physical activity, joint pain, shortness of breath for 1 month. Vital signs stable. Assessment: Obesity. Plan: Prescribe Liraglutide. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 75,
+    "patient_id": 45,
+    "doctor_id": 5,
+    "appointment_date": "2025-11-05T14:04:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "elevated blood sugar",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 76,
+    "patient_id": 37,
+    "doctor_id": 1,
+    "appointment_date": "2025-04-28T11:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "red eye",
+    "clinical_notes": "Patient presents with pink eye. Reports itchy eyes, crusting of eyelids, sensitivity to light for a few days. No acute distress noted. Assessment: Conjunctivitis. Plan: Start Artificial tears. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 77,
+    "patient_id": 38,
+    "doctor_id": 6,
+    "appointment_date": "2025-05-03T13:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "difficulty breathing",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 78,
+    "patient_id": 13,
+    "doctor_id": 3,
+    "appointment_date": "2025-06-08T16:04:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "ED follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 79,
+    "patient_id": 17,
+    "doctor_id": 8,
+    "appointment_date": "2025-05-25T09:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "stomach pain",
+    "clinical_notes": "Patient presents with epigastric pain for 2 days. Patient reports burning stomach pain, bloating, dark stools. Vital signs stable. Impression: Peptic Ulcer Disease. Recommendation: Start Amoxicillin. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 80,
+    "patient_id": 30,
+    "doctor_id": 6,
+    "appointment_date": "2025-10-25T12:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "pressure in head",
+    "clinical_notes": "Patient presents with tension headache for several weeks. Patient reports sensation of tightness around head, neck and shoulder muscle tightness, dull aching head pain. No significant past medical history. Impression: Tension Headache. Recommendation: Amitriptyline prescribed. Patient education provided. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 81,
+    "patient_id": 45,
+    "doctor_id": 5,
+    "appointment_date": "2024-12-26T08:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "racing heart",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 82,
+    "patient_id": 8,
+    "doctor_id": 2,
+    "appointment_date": "2025-02-10T14:19:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "headache with nausea",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 83,
+    "patient_id": 43,
+    "doctor_id": 9,
+    "appointment_date": "2025-02-20T13:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "irregular heartbeat",
+    "clinical_notes": "Patient presents with irregular heartbeat. Reports reduced exercise tolerance, shortness of breath, dizziness for 2 weeks. No acute distress noted. Assessment: Atrial Fibrillation. Plan: Begin treatment with Rivaroxaban. Schedule follow-up in 1 month."
+  },
+  {
+    "appointment_id": 84,
+    "patient_id": 24,
+    "doctor_id": 2,
+    "appointment_date": "2025-10-29T12:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "hypothyroid follow-up",
+    "clinical_notes": "Patient presents with fatigue and weight gain. Reports depression, cold intolerance, weight gain for 2 days. Alert and oriented. Assessment: Hypothyroidism. Plan: Prescribe Levothyroxine. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 85,
+    "patient_id": 16,
+    "doctor_id": 3,
+    "appointment_date": "2025-09-12T10:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "fatigue and weakness",
+    "clinical_notes": "Patient presents with fatigue and weakness for 1 month. Patient reports bone pain, muscle weakness, impaired wound healing. Vital signs stable. Impression: Vitamin D Deficiency. Recommendation: Prescribe Calcium with vitamin D. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 86,
+    "patient_id": 8,
+    "doctor_id": 1,
+    "appointment_date": "2025-04-03T17:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "cough and fever",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 87,
+    "patient_id": 12,
+    "doctor_id": 5,
+    "appointment_date": "2025-07-06T15:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "feeling depressed",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 88,
+    "patient_id": 31,
+    "doctor_id": 8,
+    "appointment_date": "2025-01-27T14:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "feeling cold and tired",
+    "clinical_notes": "Patient complains of fatigue and weight gain ongoing for 2 weeks. Associated symptoms: fatigue, hair loss, depression. Alert and oriented. Working diagnosis: Hypothyroidism. Start Armour Thyroid. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 89,
+    "patient_id": 28,
+    "doctor_id": 2,
+    "appointment_date": "2025-07-18T08:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "skin rash",
+    "clinical_notes": "Patient presents with skin rash for 2 weeks. Patient reports red patches, thickened skin, itching. Patient appears uncomfortable but stable. Impression: Eczema. Recommendation: Hydrocortisone cream prescribed. Patient education provided. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 90,
+    "patient_id": 30,
+    "doctor_id": 9,
+    "appointment_date": "2025-11-27T08:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "pink eye",
+    "clinical_notes": "Patient complains of itchy red eyes ongoing for several weeks. Associated symptoms: discharge, sensitivity to light, itchy eyes. No significant past medical history. Working diagnosis: Conjunctivitis. Continue monitoring. Start Ketotifen eye drops."
+  },
+  {
+    "appointment_id": 91,
+    "patient_id": 28,
+    "doctor_id": 6,
+    "appointment_date": "2025-02-19T14:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "head pain",
+    "clinical_notes": "Patient presents with headache for 1 month. Patient reports dull aching head pain, neck and shoulder muscle tightness, tenderness in scalp. Patient appears uncomfortable but stable. Impression: Tension Headache. Recommendation: Prescribe Aspirin. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 92,
+    "patient_id": 43,
+    "doctor_id": 2,
+    "appointment_date": "2025-11-08T13:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "palpitations",
+    "clinical_notes": "Chief complaint: racing heart. Duration: 3 days. Symptoms include fatigue, dizziness, reduced exercise tolerance. Alert and oriented. Diagnosis: Atrial Fibrillation. Treatment: Prescribe Apixaban. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 93,
+    "patient_id": 23,
+    "doctor_id": 9,
+    "appointment_date": "2025-04-24T16:49:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "feeling cold and tired",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 94,
+    "patient_id": 36,
+    "doctor_id": 10,
+    "appointment_date": "2025-09-14T08:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "burning skin pain",
+    "clinical_notes": "Patient presents with shingles for a few days. Patient reports painful rash, blisters, burning sensation. Patient has history of similar symptoms. Impression: Shingles. Recommendation: Start Famciclovir. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 95,
+    "patient_id": 5,
+    "doctor_id": 3,
+    "appointment_date": "2025-08-31T11:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "blood sugar management",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 96,
+    "patient_id": 30,
+    "doctor_id": 6,
+    "appointment_date": "2025-05-18T16:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "COPD follow-up",
+    "clinical_notes": "Patient presents with COPD follow-up. Reports chronic cough, shortness of breath, fatigue for several weeks. No acute distress noted. Assessment: COPD. Plan: Begin treatment with Azithromycin. Schedule follow-up in 1 week."
+  },
+  {
+    "appointment_id": 97,
+    "patient_id": 39,
+    "doctor_id": 8,
+    "appointment_date": "2025-08-22T09:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "racing heart",
+    "clinical_notes": "Patient complains of AFib follow-up ongoing for 2 days. Associated symptoms: shortness of breath, palpitations, fatigue. Patient has history of similar symptoms. Working diagnosis: Atrial Fibrillation. Amiodarone prescribed. Patient education provided. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 98,
+    "patient_id": 39,
+    "doctor_id": 1,
+    "appointment_date": "2025-03-21T10:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "headache with dizziness",
+    "clinical_notes": "Patient complains of headache with dizziness ongoing for 2 weeks. Associated symptoms: blurred vision, fatigue, headache. Patient appears uncomfortable but stable. Working diagnosis: Essential Hypertension. Prescribe Lisinopril. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 99,
+    "patient_id": 33,
+    "doctor_id": 9,
+    "appointment_date": "2024-12-24T13:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "sneezing and runny nose",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 100,
+    "patient_id": 5,
+    "doctor_id": 6,
+    "appointment_date": "2025-06-28T14:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "vitamin D check",
+    "clinical_notes": "Patient complains of vitamin D check ongoing for 2 weeks. Associated symptoms: fatigue, muscle aches, impaired wound healing. Alert and oriented. Working diagnosis: Vitamin D Deficiency. Begin treatment with Ergocalciferol. Schedule follow-up in 2 weeks."
+  },
+  {
+    "appointment_id": 101,
+    "patient_id": 16,
+    "doctor_id": 7,
+    "appointment_date": "2025-01-12T14:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "weight loss help",
+    "clinical_notes": "Patient presents with weight management. Reports sweating, joint pain, shortness of breath for 1 month. Patient appears uncomfortable but stable. Assessment: Obesity. Plan: Semaglutide prescribed. Patient education provided. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 102,
+    "patient_id": 50,
+    "doctor_id": 6,
+    "appointment_date": "2025-10-29T09:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "sneezing and runny nose",
+    "clinical_notes": "Chief complaint: seasonal allergies. Duration: a few days. Symptoms include sneezing, runny nose, nasal congestion. No fever present. Diagnosis: Allergic Rhinitis. Treatment: Start Loratadine. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 103,
+    "patient_id": 30,
+    "doctor_id": 10,
+    "appointment_date": "2025-09-18T17:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "obesity follow-up",
+    "clinical_notes": "Patient presents with difficulty losing weight. Reports difficulty with physical activity, sweating, joint pain for several weeks. Vital signs stable. Assessment: Obesity. Plan: Continue monitoring. Start Orlistat."
+  },
+  {
+    "appointment_id": 104,
+    "patient_id": 38,
+    "doctor_id": 1,
+    "appointment_date": "2025-05-10T15:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "allergies",
+    "clinical_notes": "Patient presents with sneezing and runny nose. Reports sneezing, postnasal drip, nasal congestion for 2 weeks. Patient appears uncomfortable but stable. Assessment: Allergic Rhinitis. Plan: Fexofenadine prescribed. Patient education provided. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 105,
+    "patient_id": 29,
+    "doctor_id": 10,
+    "appointment_date": "2025-08-03T15:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "rheumatoid arthritis follow-up",
+    "clinical_notes": "Chief complaint: morning stiffness. Duration: several weeks. Symptoms include joint pain and swelling, fever, joint deformity. No acute distress noted. Diagnosis: Rheumatoid Arthritis. Treatment: Start Hydroxychloroquine. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 106,
+    "patient_id": 34,
+    "doctor_id": 9,
+    "appointment_date": "2025-06-11T12:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "burning skin pain",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 107,
+    "patient_id": 50,
+    "doctor_id": 6,
+    "appointment_date": "2025-10-22T12:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "pink eye",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 108,
+    "patient_id": 7,
+    "doctor_id": 9,
+    "appointment_date": "2025-11-04T16:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "weight loss and anxiety",
+    "clinical_notes": "Patient presents with rapid heartbeat for 1 month. Patient reports heat intolerance, weight loss, sweating. No fever present. Impression: Hyperthyroidism. Recommendation: Continue monitoring. Start Propylthiouracil."
+  },
+  {
+    "appointment_id": 109,
+    "patient_id": 20,
+    "doctor_id": 9,
+    "appointment_date": "2025-05-20T09:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "thyroid follow-up",
+    "clinical_notes": "Patient presents with rapid heartbeat for 1 week. Patient reports increased appetite, sweating, anxiety. Alert and oriented. Impression: Hyperthyroidism. Recommendation: Prescribe Methimazole. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 110,
+    "patient_id": 13,
+    "doctor_id": 4,
+    "appointment_date": "2025-05-03T08:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "pneumonia symptoms",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 111,
+    "patient_id": 50,
+    "doctor_id": 10,
+    "appointment_date": "2025-02-19T09:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "difficulty breathing",
+    "clinical_notes": "Patient presents with pneumonia symptoms. Reports confusion in elderly, fatigue, chest pain with breathing for several weeks. No fever present. Assessment: Community-Acquired Pneumonia. Plan: Continue monitoring. Start Amoxicillin-clavulanate."
+  },
+  {
+    "appointment_id": 112,
+    "patient_id": 29,
+    "doctor_id": 10,
+    "appointment_date": "2025-07-20T10:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "epigastric pain",
+    "clinical_notes": "Patient complains of ulcer symptoms ongoing for a few days. Associated symptoms: nausea, vomiting, bloating. No acute distress noted. Working diagnosis: Peptic Ulcer Disease. Continue monitoring. Start Sucralfate."
+  },
+  {
+    "appointment_id": 113,
+    "patient_id": 11,
+    "doctor_id": 4,
+    "appointment_date": "2025-04-10T08:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "pink eye",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 114,
+    "patient_id": 36,
+    "doctor_id": 2,
+    "appointment_date": "2025-04-27T08:49:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "BPH follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 115,
+    "patient_id": 29,
+    "doctor_id": 9,
+    "appointment_date": "2025-01-18T11:19:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "shortness of breath",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 116,
+    "patient_id": 2,
+    "doctor_id": 7,
+    "appointment_date": "2025-06-12T11:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "depression follow-up",
+    "clinical_notes": "Patient presents with low mood. Reports persistent sadness, sleep disturbances, loss of interest for 3 days. No significant past medical history. Assessment: Major Depressive Disorder. Plan: Begin treatment with Sertraline. Schedule follow-up in 1 month."
+  },
+  {
+    "appointment_id": 117,
+    "patient_id": 31,
+    "doctor_id": 3,
+    "appointment_date": "2024-12-05T08:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "itchy rash",
+    "clinical_notes": "Patient complains of rash from exposure ongoing for 3 days. Associated symptoms: dry cracked skin, itching, swelling. Vital signs stable. Working diagnosis: Contact Dermatitis. Start Prednisone. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 118,
+    "patient_id": 4,
+    "doctor_id": 4,
+    "appointment_date": "2025-10-17T14:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "AFib follow-up",
+    "clinical_notes": "Chief complaint: AFib follow-up. Duration: 2 weeks. Symptoms include palpitations, shortness of breath, dizziness. No significant past medical history. Diagnosis: Atrial Fibrillation. Treatment: Prescribe Warfarin. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 119,
+    "patient_id": 16,
+    "doctor_id": 10,
+    "appointment_date": "2025-11-10T09:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "palpitations",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 120,
+    "patient_id": 34,
+    "doctor_id": 9,
+    "appointment_date": "2025-08-19T15:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "spreading redness",
+    "clinical_notes": "Patient presents with spreading redness for a few days. Patient reports tenderness, skin dimpling, red expanding skin area. No significant past medical history. Impression: Cellulitis. Recommendation: Start Trimethoprim-sulfamethoxazole. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 121,
+    "patient_id": 16,
+    "doctor_id": 2,
+    "appointment_date": "2025-05-22T09:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "difficulty losing weight",
+    "clinical_notes": "Patient complains of weight loss help ongoing for 2 days. Associated symptoms: joint pain, snoring, difficulty with physical activity. No fever present. Working diagnosis: Obesity. Prescribe Orlistat. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 122,
+    "patient_id": 3,
+    "doctor_id": 5,
+    "appointment_date": "2025-03-15T08:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "RA flare",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 123,
+    "patient_id": 33,
+    "doctor_id": 7,
+    "appointment_date": "2024-12-21T11:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "sexual dysfunction",
+    "clinical_notes": "Patient presents with sexual dysfunction for several weeks. Patient reports difficulty maintaining erection, difficulty getting erection, reduced sexual desire. No acute distress noted. Impression: Erectile Dysfunction. Recommendation: Continue monitoring. Start Vardenafil."
+  },
+  {
+    "appointment_id": 124,
+    "patient_id": 22,
+    "doctor_id": 3,
+    "appointment_date": "2025-06-09T16:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "itchy dry skin",
+    "clinical_notes": "Chief complaint: skin rash. Duration: 1 week. Symptoms include dry skin, small raised bumps, raw sensitive skin from scratching. No significant past medical history. Diagnosis: Eczema. Treatment: Cetirizine prescribed. Patient education provided. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 125,
+    "patient_id": 21,
+    "doctor_id": 5,
+    "appointment_date": "2025-07-09T10:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "stomach cramps",
+    "clinical_notes": "Patient complains of abdominal pain and bloating ongoing for 2 days. Associated symptoms: gas, diarrhea, abdominal pain. No fever present. Working diagnosis: Irritable Bowel Syndrome. Begin treatment with Loperamide. Schedule follow-up in 6 months."
+  },
+  {
+    "appointment_id": 126,
+    "patient_id": 24,
+    "doctor_id": 9,
+    "appointment_date": "2025-02-14T17:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "COPD exacerbation",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 127,
+    "patient_id": 9,
+    "doctor_id": 2,
+    "appointment_date": "2025-06-08T13:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "migraine",
+    "clinical_notes": "Patient presents with recurring headaches for a few days. Patient reports sensitivity to light, severe headache, aura. No significant past medical history. Impression: Migraine. Recommendation: Begin treatment with Rizatriptan. Schedule follow-up in 3 months."
+  },
+  {
+    "appointment_id": 128,
+    "patient_id": 34,
+    "doctor_id": 6,
+    "appointment_date": "2025-04-24T10:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "feeling tired",
+    "clinical_notes": "Patient complains of fatigue and weakness ongoing for 1 week. Associated symptoms: fatigue, cold hands and feet, weakness. Alert and oriented. Working diagnosis: Iron Deficiency Anemia. Vitamin C prescribed. Patient education provided. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 129,
+    "patient_id": 46,
+    "doctor_id": 8,
+    "appointment_date": "2025-04-28T14:49:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "sudden joint pain",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 130,
+    "patient_id": 9,
+    "doctor_id": 2,
+    "appointment_date": "2025-11-06T23:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "CAD follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 131,
+    "patient_id": 43,
+    "doctor_id": 6,
+    "appointment_date": "2025-04-30T11:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "excessive worry",
+    "clinical_notes": "Chief complaint: excessive worry. Duration: a few days. Symptoms include muscle tension, sleep problems, restlessness. Patient has history of similar symptoms. Diagnosis: Generalized Anxiety Disorder. Treatment: Start Escitalopram. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 132,
+    "patient_id": 32,
+    "doctor_id": 1,
+    "appointment_date": "2025-06-09T14:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "fatigue and weight gain",
+    "clinical_notes": "Patient complains of fatigue and weight gain ongoing for 3 days. Associated symptoms: weight gain, fatigue, cold intolerance. Vital signs stable. Working diagnosis: Hypothyroidism. Continue monitoring. Start Liothyronine."
+  },
+  {
+    "appointment_id": 133,
+    "patient_id": 29,
+    "doctor_id": 8,
+    "appointment_date": "2025-09-11T16:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "frequent urination at night",
+    "clinical_notes": "Patient presents with frequent urination at night. Reports dribbling, urgency, difficulty starting urination for 1 week. Patient has history of similar symptoms. Assessment: Benign Prostatic Hyperplasia. Plan: Silodosin prescribed. Patient education provided. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 134,
+    "patient_id": 21,
+    "doctor_id": 4,
+    "appointment_date": "2025-08-25T11:34:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "itchy watery eyes",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 135,
+    "patient_id": 13,
+    "doctor_id": 9,
+    "appointment_date": "2025-05-07T16:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "acid reflux",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 136,
+    "patient_id": 38,
+    "doctor_id": 10,
+    "appointment_date": "2025-10-18T17:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "asthma flare",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 137,
+    "patient_id": 2,
+    "doctor_id": 2,
+    "appointment_date": "2025-09-24T11:49:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "abnormal lipid panel",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 138,
+    "patient_id": 40,
+    "doctor_id": 1,
+    "appointment_date": "2025-09-08T12:04:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "chronic skin irritation",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 139,
+    "patient_id": 16,
+    "doctor_id": 7,
+    "appointment_date": "2025-11-20T07:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "irregular bowel movements",
+    "clinical_notes": "Patient presents with IBS symptoms for 1 week. Patient reports diarrhea, mucus in stool, alternating bowel habits. Alert and oriented. Impression: Irritable Bowel Syndrome. Recommendation: Linaclotide prescribed. Patient education provided. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 140,
+    "patient_id": 47,
+    "doctor_id": 6,
+    "appointment_date": "2025-06-10T15:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "feeling tired",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 141,
+    "patient_id": 16,
+    "doctor_id": 8,
+    "appointment_date": "2025-04-08T09:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "chest congestion",
+    "clinical_notes": "Chief complaint: chest congestion. Duration: 1 month. Symptoms include persistent cough, chest discomfort, fatigue. No fever present. Diagnosis: Acute Bronchitis. Treatment: Prescribe Ibuprofen. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 142,
+    "patient_id": 13,
+    "doctor_id": 3,
+    "appointment_date": "2025-07-30T15:04:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "chronic skin irritation",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 143,
+    "patient_id": 2,
+    "doctor_id": 2,
+    "appointment_date": "2025-04-05T11:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "pale and dizzy",
+    "clinical_notes": "Patient complains of fatigue and weakness ongoing for a few days. Associated symptoms: fatigue, brittle nails, pale skin. No significant past medical history. Working diagnosis: Iron Deficiency Anemia. Begin treatment with Vitamin C. Schedule follow-up in 6 months."
+  },
+  {
+    "appointment_id": 144,
+    "patient_id": 9,
+    "doctor_id": 5,
+    "appointment_date": "2025-06-08T08:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "hypothyroid follow-up",
+    "clinical_notes": "Patient presents with feeling cold and tired for 1 month. Patient reports fatigue, dry skin, depression. No acute distress noted. Impression: Hypothyroidism. Recommendation: Start Levothyroxine. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 145,
+    "patient_id": 40,
+    "doctor_id": 10,
+    "appointment_date": "2025-01-21T14:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "chest congestion",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 146,
+    "patient_id": 36,
+    "doctor_id": 6,
+    "appointment_date": "2025-08-20T13:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "asthma flare",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 147,
+    "patient_id": 3,
+    "doctor_id": 3,
+    "appointment_date": "2025-08-25T14:49:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "sinus infection",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 148,
+    "patient_id": 21,
+    "doctor_id": 10,
+    "appointment_date": "2025-10-14T12:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "frequent urination",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 149,
+    "patient_id": 46,
+    "doctor_id": 10,
+    "appointment_date": "2024-12-11T13:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "IBS symptoms",
+    "clinical_notes": "Patient presents with stomach cramps. Reports alternating bowel habits, abdominal pain, diarrhea for 1 week. No fever present. Assessment: Irritable Bowel Syndrome. Plan: Amitriptyline prescribed. Patient education provided. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 150,
+    "patient_id": 47,
+    "doctor_id": 1,
+    "appointment_date": "2025-08-28T17:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "difficulty losing weight",
+    "clinical_notes": "Patient presents with weight management. Reports shortness of breath, sweating, difficulty with physical activity for 2 weeks. Vital signs stable. Assessment: Obesity. Plan: Prescribe Phentermine. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 151,
+    "patient_id": 10,
+    "doctor_id": 7,
+    "appointment_date": "2025-10-12T14:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "joint swelling and redness",
+    "clinical_notes": "Patient presents with joint swelling and redness for 1 week. Patient reports limited range of motion, swelling, tenderness. Patient has history of similar symptoms. Impression: Gout. Recommendation: Continue monitoring. Start Indomethacin."
+  },
+  {
+    "appointment_id": 152,
+    "patient_id": 35,
+    "doctor_id": 6,
+    "appointment_date": "2025-11-16T12:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "sexual dysfunction",
+    "clinical_notes": "Patient presents with ED follow-up for several weeks. Patient reports difficulty getting erection, reduced sexual desire, difficulty maintaining erection. No fever present. Impression: Erectile Dysfunction. Recommendation: Begin treatment with Vardenafil. Schedule follow-up in 2 weeks."
+  },
+  {
+    "appointment_id": 153,
+    "patient_id": 21,
+    "doctor_id": 8,
+    "appointment_date": "2025-04-22T11:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "allergies",
+    "clinical_notes": "Chief complaint: allergies. Duration: 1 week. Symptoms include watery eyes, postnasal drip, itchy nose and eyes. No fever present. Diagnosis: Allergic Rhinitis. Treatment: Begin treatment with Fluticasone nasal spray. Schedule follow-up in 1 month."
+  },
+  {
+    "appointment_id": 154,
+    "patient_id": 23,
+    "doctor_id": 8,
+    "appointment_date": "2025-03-22T11:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "tension headache",
+    "clinical_notes": "Chief complaint: headache. Duration: several weeks. Symptoms include tenderness in scalp, dull aching head pain, neck and shoulder muscle tightness. Patient appears uncomfortable but stable. Diagnosis: Tension Headache. Treatment: Prescribe Amitriptyline. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 155,
+    "patient_id": 41,
+    "doctor_id": 4,
+    "appointment_date": "2025-05-21T14:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "low mood",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 156,
+    "patient_id": 1,
+    "doctor_id": 9,
+    "appointment_date": "2025-08-03T14:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "COPD exacerbation",
+    "clinical_notes": "Patient presents with worsening shortness of breath. Reports mucus production, wheezing, fatigue for 1 month. No fever present. Assessment: COPD. Plan: Albuterol prescribed. Patient education provided. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 157,
+    "patient_id": 12,
+    "doctor_id": 7,
+    "appointment_date": "2024-12-21T14:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "hip pain",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 158,
+    "patient_id": 48,
+    "doctor_id": 5,
+    "appointment_date": "2025-09-19T16:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "lipid management",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 159,
+    "patient_id": 19,
+    "doctor_id": 8,
+    "appointment_date": "2025-02-09T16:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "difficulty with erections",
+    "clinical_notes": "Patient complains of ED follow-up ongoing for 2 days. Associated symptoms: difficulty maintaining erection, difficulty getting erection, reduced sexual desire. No fever present. Working diagnosis: Erectile Dysfunction. Begin treatment with Vardenafil. Schedule follow-up in 2 weeks."
+  },
+  {
+    "appointment_id": 160,
+    "patient_id": 19,
+    "doctor_id": 10,
+    "appointment_date": "2025-10-26T14:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "RA flare",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 161,
+    "patient_id": 6,
+    "doctor_id": 7,
+    "appointment_date": "2025-02-12T15:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "runny nose and cough",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 162,
+    "patient_id": 1,
+    "doctor_id": 5,
+    "appointment_date": "2025-04-18T13:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "thyroid follow-up",
+    "clinical_notes": "Patient presents with thyroid follow-up. Reports weight loss, anxiety, heat intolerance for 1 week. Patient has history of similar symptoms. Assessment: Hyperthyroidism. Plan: Start Propranolol. Follow up in 2 weeks."
+  },
+  {
+    "appointment_id": 163,
+    "patient_id": 44,
+    "doctor_id": 9,
+    "appointment_date": "2025-10-26T12:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "stomach cramps",
+    "clinical_notes": "Chief complaint: irregular bowel movements. Duration: 2 weeks. Symptoms include constipation, bloating, alternating bowel habits. No fever present. Diagnosis: Irritable Bowel Syndrome. Treatment: Continue monitoring. Start Hyoscyamine."
+  },
+  {
+    "appointment_id": 164,
+    "patient_id": 49,
+    "doctor_id": 9,
+    "appointment_date": "2025-11-16T16:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "swollen painful big toe",
+    "clinical_notes": "Patient presents with swollen painful big toe. Reports tenderness, warmth, often affects big toe for 1 month. Patient appears uncomfortable but stable. Assessment: Gout. Plan: Start Prednisone. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 165,
+    "patient_id": 11,
+    "doctor_id": 6,
+    "appointment_date": "2025-11-16T11:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "difficulty urinating",
+    "clinical_notes": "Chief complaint: weak urine stream. Duration: 2 weeks. Symptoms include frequent urination, incomplete emptying, difficulty starting urination. Patient appears uncomfortable but stable. Diagnosis: Benign Prostatic Hyperplasia. Treatment: Tamsulosin prescribed. Patient education provided. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 166,
+    "patient_id": 36,
+    "doctor_id": 8,
+    "appointment_date": "2025-06-23T11:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "abdominal pain and bloating",
+    "clinical_notes": "Patient complains of abdominal pain and bloating ongoing for 1 month. Associated symptoms: alternating bowel habits, bloating, constipation. No significant past medical history. Working diagnosis: Irritable Bowel Syndrome. Begin treatment with Dicyclomine. Schedule follow-up in 1 week."
+  },
+  {
+    "appointment_id": 167,
+    "patient_id": 31,
+    "doctor_id": 1,
+    "appointment_date": "2025-02-10T14:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "epigastric pain",
+    "clinical_notes": "Chief complaint: stomach pain. Duration: 3 days. Symptoms include vomiting, weight loss, dark stools. Patient appears uncomfortable but stable. Diagnosis: Peptic Ulcer Disease. Treatment: Begin treatment with Amoxicillin. Schedule follow-up in 1 week."
+  },
+  {
+    "appointment_id": 168,
+    "patient_id": 34,
+    "doctor_id": 3,
+    "appointment_date": "2024-12-14T12:19:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "chronic back pain",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 169,
+    "patient_id": 35,
+    "doctor_id": 7,
+    "appointment_date": "2025-05-29T10:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "back pain",
+    "clinical_notes": "Patient presents with lower back pain. Reports muscle stiffness, aching pain in lower back, pain radiating to legs for 2 days. No significant past medical history. Assessment: Low Back Pain. Plan: Prescribe Acetaminophen. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 170,
+    "patient_id": 29,
+    "doctor_id": 10,
+    "appointment_date": "2024-12-25T14:19:06.110558",
+    "status": "completed",
+    "reason_for_visit": "depression follow-up",
+    "clinical_notes": "Patient presents with depression follow-up for 1 month. Patient reports loss of interest, difficulty concentrating, feelings of worthlessness. Patient appears uncomfortable but stable. Impression: Major Depressive Disorder. Recommendation: Prescribe Sertraline. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 171,
+    "patient_id": 16,
+    "doctor_id": 5,
+    "appointment_date": "2025-08-26T11:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "shortness of breath",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 172,
+    "patient_id": 18,
+    "doctor_id": 1,
+    "appointment_date": "2025-03-02T14:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "hot flashes",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 173,
+    "patient_id": 23,
+    "doctor_id": 7,
+    "appointment_date": "2025-07-04T13:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "frequent urination at night",
+    "clinical_notes": "Chief complaint: BPH follow-up. Duration: a few days. Symptoms include weak urine stream, difficulty starting urination, urgency. No fever present. Diagnosis: Benign Prostatic Hyperplasia. Treatment: Prescribe Silodosin. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 174,
+    "patient_id": 30,
+    "doctor_id": 1,
+    "appointment_date": "2025-07-04T15:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "menopause symptoms",
+    "clinical_notes": "Patient presents with night sweats. Reports vaginal dryness, night sweats, mood changes for 2 days. Patient appears uncomfortable but stable. Assessment: Menopause. Plan: Continue monitoring. Start Conjugated estrogens."
+  },
+  {
+    "appointment_id": 175,
+    "patient_id": 4,
+    "doctor_id": 5,
+    "appointment_date": "2025-10-07T07:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "rapid heartbeat",
+    "clinical_notes": "Chief complaint: hyperthyroid symptoms. Duration: 2 days. Symptoms include tremor, increased appetite, sweating. Patient has history of similar symptoms. Diagnosis: Hyperthyroidism. Treatment: Begin treatment with Propylthiouracil. Schedule follow-up in 3 months."
+  },
+  {
+    "appointment_id": 176,
+    "patient_id": 48,
+    "doctor_id": 2,
+    "appointment_date": "2025-11-24T16:49:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "contact rash",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 177,
+    "patient_id": 16,
+    "doctor_id": 9,
+    "appointment_date": "2025-06-15T15:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "painful urination",
+    "clinical_notes": "Patient complains of frequent urination ongoing for a few days. Associated symptoms: urgency, strong-smelling urine, pelvic pain. Alert and oriented. Working diagnosis: Urinary Tract Infection. Start Fosfomycin. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 178,
+    "patient_id": 14,
+    "doctor_id": 6,
+    "appointment_date": "2025-09-17T10:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "UTI symptoms",
+    "clinical_notes": "Patient complains of UTI symptoms ongoing for 3 days. Associated symptoms: burning with urination, urgency, blood in urine. Vital signs stable. Working diagnosis: Urinary Tract Infection. Begin treatment with Fosfomycin. Schedule follow-up in 6 months."
+  },
+  {
+    "appointment_id": 179,
+    "patient_id": 25,
+    "doctor_id": 10,
+    "appointment_date": "2025-11-03T13:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "recurring headaches",
+    "clinical_notes": "Patient presents with migraine for several weeks. Patient reports aura, vomiting, sensitivity to sound. Patient appears uncomfortable but stable. Impression: Migraine. Recommendation: Prescribe Propranolol. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 180,
+    "patient_id": 12,
+    "doctor_id": 9,
+    "appointment_date": "2025-01-10T07:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "sadness and fatigue",
+    "clinical_notes": "Patient presents with sadness and fatigue. Reports fatigue, loss of interest, appetite changes for 1 week. No significant past medical history. Assessment: Major Depressive Disorder. Plan: Prescribe Sertraline. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 181,
+    "patient_id": 43,
+    "doctor_id": 8,
+    "appointment_date": "2025-09-11T13:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "elevated blood sugar",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 182,
+    "patient_id": 34,
+    "doctor_id": 5,
+    "appointment_date": "2024-12-11T16:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "ED follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 183,
+    "patient_id": 7,
+    "doctor_id": 2,
+    "appointment_date": "2025-03-11T17:04:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "BPH follow-up",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 184,
+    "patient_id": 18,
+    "doctor_id": 7,
+    "appointment_date": "2025-06-28T14:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "waking up at night",
+    "clinical_notes": "Patient presents with waking up at night. Reports difficulty concentrating, difficulty staying asleep, waking too early for 2 weeks. Patient appears uncomfortable but stable. Assessment: Insomnia. Plan: Continue monitoring. Start Zolpidem."
+  },
+  {
+    "appointment_id": 185,
+    "patient_id": 4,
+    "doctor_id": 1,
+    "appointment_date": "2025-07-13T12:34:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "COPD exacerbation",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 186,
+    "patient_id": 15,
+    "doctor_id": 4,
+    "appointment_date": "2024-12-26T09:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "vitamin D follow-up",
+    "clinical_notes": "Patient presents with fatigue and weakness. Reports depression, impaired wound healing, fatigue for a few days. Alert and oriented. Assessment: Vitamin D Deficiency. Plan: Prescribe Cholecalciferol. Return if symptoms worsen."
+  },
+  {
+    "appointment_id": 187,
+    "patient_id": 5,
+    "doctor_id": 5,
+    "appointment_date": "2025-09-19T14:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "COPD exacerbation",
+    "clinical_notes": "Patient presents with COPD exacerbation for 2 weeks. Patient reports chest tightness, fatigue, shortness of breath. Patient has history of similar symptoms. Impression: COPD. Recommendation: Start Tiotropium. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 188,
+    "patient_id": 22,
+    "doctor_id": 10,
+    "appointment_date": "2025-06-24T12:34:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "blistering rash",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 189,
+    "patient_id": 29,
+    "doctor_id": 8,
+    "appointment_date": "2025-06-13T13:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "chronic back pain",
+    "clinical_notes": "Chief complaint: back pain. Duration: 1 week. Symptoms include difficulty standing straight, pain radiating to legs, aching pain in lower back. Patient has history of similar symptoms. Diagnosis: Low Back Pain. Treatment: Start Meloxicam. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 190,
+    "patient_id": 46,
+    "doctor_id": 3,
+    "appointment_date": "2025-01-26T08:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "thyroid follow-up",
+    "clinical_notes": "Chief complaint: rapid heartbeat. Duration: 2 weeks. Symptoms include sweating, tremor, anxiety. No acute distress noted. Diagnosis: Hyperthyroidism. Treatment: Start Propranolol. Follow up in 1 week."
+  },
+  {
+    "appointment_id": 191,
+    "patient_id": 7,
+    "doctor_id": 1,
+    "appointment_date": "2025-01-19T17:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "insomnia",
+    "clinical_notes": "Patient presents with insomnia. Reports daytime fatigue, difficulty falling asleep, waking too early for 1 month. Patient appears uncomfortable but stable. Assessment: Insomnia. Plan: Eszopiclone prescribed. Patient education provided. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 192,
+    "patient_id": 44,
+    "doctor_id": 7,
+    "appointment_date": "2025-05-06T12:19:06.110558",
+    "status": "scheduled",
+    "reason_for_visit": "worsening shortness of breath",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 193,
+    "patient_id": 5,
+    "doctor_id": 3,
+    "appointment_date": "2025-05-05T14:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "shortness of breath",
+    "clinical_notes": "Chief complaint: shortness of breath. Duration: 3 days. Symptoms include swelling in legs, reduced exercise tolerance, fatigue. Vital signs stable. Diagnosis: Heart Failure. Treatment: Continue monitoring. Start Spironolactone."
+  },
+  {
+    "appointment_id": 194,
+    "patient_id": 26,
+    "doctor_id": 6,
+    "appointment_date": "2025-05-20T15:04:06.110558",
+    "status": "completed",
+    "reason_for_visit": "shingles",
+    "clinical_notes": "Patient presents with shingles for 2 weeks. Patient reports headache, fatigue, fever. Vital signs stable. Impression: Shingles. Recommendation: Begin treatment with Lidocaine patch. Schedule follow-up in 2 weeks."
+  },
+  {
+    "appointment_id": 195,
+    "patient_id": 26,
+    "doctor_id": 6,
+    "appointment_date": "2025-10-23T14:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "burning abdominal pain",
+    "clinical_notes": "Patient presents with burning abdominal pain. Reports nausea, vomiting, weight loss for 1 month. Patient appears uncomfortable but stable. Assessment: Peptic Ulcer Disease. Plan: Amoxicillin prescribed. Patient education provided. Follow up in 1 month."
+  },
+  {
+    "appointment_id": 196,
+    "patient_id": 44,
+    "doctor_id": 9,
+    "appointment_date": "2025-07-27T11:19:06.110558",
+    "status": "no-show",
+    "reason_for_visit": "increased thirst and urination",
+    "clinical_notes": null
+  },
+  {
+    "appointment_id": 197,
+    "patient_id": 45,
+    "doctor_id": 2,
+    "appointment_date": "2025-02-12T11:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "racing heart",
+    "clinical_notes": "Patient complains of racing heart ongoing for 1 month. Associated symptoms: fatigue, chest discomfort, irregular heartbeat. No acute distress noted. Working diagnosis: Atrial Fibrillation. Start Amiodarone. Follow up in 3 months."
+  },
+  {
+    "appointment_id": 198,
+    "patient_id": 35,
+    "doctor_id": 9,
+    "appointment_date": "2025-06-05T15:34:06.110558",
+    "status": "completed",
+    "reason_for_visit": "racing heart",
+    "clinical_notes": "Patient presents with racing heart. Reports palpitations, irregular heartbeat, fatigue for a few days. Vital signs stable. Assessment: Atrial Fibrillation. Plan: Diltiazem prescribed. Patient education provided. Follow up in 6 months."
+  },
+  {
+    "appointment_id": 199,
+    "patient_id": 7,
+    "doctor_id": 1,
+    "appointment_date": "2025-08-21T15:49:06.110558",
+    "status": "completed",
+    "reason_for_visit": "sore throat",
+    "clinical_notes": "Chief complaint: cold symptoms. Duration: 2 weeks. Symptoms include cough, sore throat, malaise. No significant past medical history. Diagnosis: Acute Upper Respiratory Infection. Treatment: Begin treatment with Dextromethorphan. Schedule follow-up in 6 months."
+  },
+  {
+    "appointment_id": 200,
+    "patient_id": 27,
+    "doctor_id": 2,
+    "appointment_date": "2025-02-13T13:04:06.110558",
+    "status": "cancelled",
+    "reason_for_visit": "chest congestion",
+    "clinical_notes": null
+  }
+]

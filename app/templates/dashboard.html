@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h1>Welcome, {{ session.get('doctor_name', 'Doctor') }}</h1>
+<p class="text-muted">Clinical Decision Support System Dashboard</p>
+
+<h4 class="mt-4">Your Overview</h4>
+<div class="row">
+    <div class="col-md-4 mb-3">
+        <div class="card text-white bg-primary">
+            <div class="card-body">
+                <h5 class="card-title">Your Patients</h5>
+                <h2>{{ my_patients }}</h2>
+                <a href="{{ url_for('main.patients') }}" class="text-white">View →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card text-white bg-info">
+            <div class="card-body">
+                <h5 class="card-title">Your Appointments</h5>
+                <h2>{{ my_appointments }}</h2>
+                <a href="{{ url_for('main.appointments') }}" class="text-white">View →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card text-white bg-success">
+            <div class="card-body">
+                <h5 class="card-title">Your Records</h5>
+                <h2>{{ my_records }}</h2>
+                <a href="{{ url_for('main.records') }}" class="text-white">View →</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4 mb-3">
+        <div class="card text-white bg-warning">
+            <div class="card-body">
+                <h5 class="card-title">Your Prescriptions</h5>
+                <h2>{{ my_prescriptions }}</h2>
+                <a href="{{ url_for('main.prescriptions') }}" class="text-white">View →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card text-white bg-secondary">
+            <div class="card-body">
+                <h5 class="card-title">Your Procedures</h5>
+                <h2>{{ my_procedures }}</h2>
+                <a href="{{ url_for('main.procedures') }}" class="text-white">View →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Semantic Search</h5>
+                <p class="mb-2">Find similar clinical cases.</p>
+                <a href="{{ url_for('main.search') }}" class="btn btn-primary">Go to Search</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h4 class="mt-4">System Overview</h4>
+<div class="row">
+    <div class="col-md-3 mb-3">
+        <div class="card bg-light">
+            <div class="card-body">
+                <h6 class="card-title text-muted">Total Patients</h6>
+                <h3>{{ total_patients }}</h3>
+                <a href="{{ url_for('main.patients', view='all') }}" class="text-primary">View all →</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 mb-3">
+        <div class="card bg-light">
+            <div class="card-body">
+                <h6 class="card-title text-muted">Total Appointments</h6>
+                <h3>{{ total_appointments }}</h3>
+                <a href="{{ url_for('main.appointments', view='all') }}" class="text-primary">View all →</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

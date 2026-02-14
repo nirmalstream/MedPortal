@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}{{ "Edit" if record else "Add" }} Medical Record{% endblock %}
+{% block content %}
+<h1>{{ "Edit" if record else "Add" }} Medical Record</h1>
+
+<form method="POST" class="mt-3">
+    {% if not record %}
+    <div class="mb-3">
+        <label class="form-label">Appointment *</label>
+        <select name="appointment_id" class="form-select" required>
+            <option value="">Select Appointment</option>
+            {% for a in appointments %}
+            <option value="{{ a.appointment_id }}">
+                #{{ a.appointment_id }} - {{ a.patient_first_name }} {{ a.patient_last_name }} ({{ a.appointment_date }})
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+    {% endif %}
+    
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Visit Date *</label>
+            <input type="datetime-local" name="visit_date" class="form-control" 
+                   value="{{ record.visit_date.strftime('%Y-%m-%dT%H:%M') if record and record.visit_date else '' }}" required>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Chief Complaint</label>
+            <input type="text" name="chief_complaint" class="form-control" value="{{ record.chief_complaint if record else '' }}">
+        </div>
+    </div>
+    
+    <div class="mb-3">
+        <label class="form-label">Diagnosis</label>
+        <input type="text" name="diagnosis" class="form-control" value="{{ record.diagnosis if record else '' }}">
+    </div>
+    
+    <div class="mb-3">
+        <label class="form-label">Treatment Plan</label>
+        <textarea name="treatment_plan" class="form-control" rows="3">{{ record.treatment_plan if record else '' }}</textarea>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <div class="form-check">
+                <input type="checkbox" name="follow_up_required" class="form-check-input" id="followUp"
+                       {{ 'checked' if record and record.follow_up_required else '' }}>
+                <label class="form-check-label" for="followUp">Follow-up Required</label>
+            </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label class="form-label">Follow-up Date</label>
+            <input type="date" name="follow_up_date" class="form-control" 
+                   value="{{ record.follow_up_date if record and record.follow_up_date else '' }}">
+        </div>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">{{ "Update" if record else "Create" }}</button>
+    <a href="{{ url_for('main.records') }}" class="btn btn-secondary">Cancel</a>
+</form>
+{% endblock %}

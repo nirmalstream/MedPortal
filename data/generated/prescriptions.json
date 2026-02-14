@@ -1,0 +1,2302 @@
+[
+  {
+    "prescription_id": 1,
+    "appointment_id": 2,
+    "medication_name": "Cephalexin",
+    "dosage": "25mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-02-19T12:49:06.110558"
+  },
+  {
+    "prescription_id": 2,
+    "appointment_id": 7,
+    "medication_name": "Metformin",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-03-30T16:49:06.110558"
+  },
+  {
+    "prescription_id": 3,
+    "appointment_id": 8,
+    "medication_name": "Colchicine",
+    "dosage": "25mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-21T17:19:06.110558"
+  },
+  {
+    "prescription_id": 4,
+    "appointment_id": 8,
+    "medication_name": "Prednisone",
+    "dosage": "50mg",
+    "frequency": "Once daily",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-09-21T17:19:06.110558"
+  },
+  {
+    "prescription_id": 5,
+    "appointment_id": 12,
+    "medication_name": "Albuterol",
+    "dosage": "100mg",
+    "frequency": "Twice daily",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-08-06T11:19:06.110558"
+  },
+  {
+    "prescription_id": 6,
+    "appointment_id": 12,
+    "medication_name": "Tiotropium",
+    "dosage": "100mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-08-06T11:19:06.110558"
+  },
+  {
+    "prescription_id": 7,
+    "appointment_id": 12,
+    "medication_name": "Prednisone",
+    "dosage": "50mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-08-06T11:19:06.110558"
+  },
+  {
+    "prescription_id": 8,
+    "appointment_id": 13,
+    "medication_name": "Amoxicillin",
+    "dosage": "10mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-01-01T16:34:06.110558"
+  },
+  {
+    "prescription_id": 9,
+    "appointment_id": 13,
+    "medication_name": "Pantoprazole",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-01-01T16:34:06.110558"
+  },
+  {
+    "prescription_id": 10,
+    "appointment_id": 15,
+    "medication_name": "Rosuvastatin",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-07-05T17:04:06.110558"
+  },
+  {
+    "prescription_id": 11,
+    "appointment_id": 19,
+    "medication_name": "Ceftriaxone",
+    "dosage": "5mg",
+    "frequency": "Once daily",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-01-26T15:49:06.110558"
+  },
+  {
+    "prescription_id": 12,
+    "appointment_id": 19,
+    "medication_name": "Levofloxacin",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-01-26T15:49:06.110558"
+  },
+  {
+    "prescription_id": 13,
+    "appointment_id": 19,
+    "medication_name": "Azithromycin",
+    "dosage": "5mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-01-26T15:49:06.110558"
+  },
+  {
+    "prescription_id": 14,
+    "appointment_id": 21,
+    "medication_name": "Gabapentin",
+    "dosage": "5mg",
+    "frequency": "Every 8 hours",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-16T07:34:06.110558"
+  },
+  {
+    "prescription_id": 15,
+    "appointment_id": 21,
+    "medication_name": "Vaginal estrogen",
+    "dosage": "20mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-09-16T07:34:06.110558"
+  },
+  {
+    "prescription_id": 16,
+    "appointment_id": 21,
+    "medication_name": "Conjugated estrogens",
+    "dosage": "50mg",
+    "frequency": "Three times daily",
+    "duration": "30 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-09-16T07:34:06.110558"
+  },
+  {
+    "prescription_id": 17,
+    "appointment_id": 24,
+    "medication_name": "Diclofenac gel",
+    "dosage": "25mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-05-22T13:49:06.110558"
+  },
+  {
+    "prescription_id": 18,
+    "appointment_id": 26,
+    "medication_name": "Montelukast",
+    "dosage": "5mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-25T16:04:06.110558"
+  },
+  {
+    "prescription_id": 19,
+    "appointment_id": 26,
+    "medication_name": "Fluticasone nasal spray",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-25T16:04:06.110558"
+  },
+  {
+    "prescription_id": 20,
+    "appointment_id": 27,
+    "medication_name": "Sacubitril-valsartan",
+    "dosage": "100mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-21T09:19:06.110558"
+  },
+  {
+    "prescription_id": 21,
+    "appointment_id": 27,
+    "medication_name": "Lisinopril",
+    "dosage": "100mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-08-21T09:19:06.110558"
+  },
+  {
+    "prescription_id": 22,
+    "appointment_id": 27,
+    "medication_name": "Carvedilol",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-08-21T09:19:06.110558"
+  },
+  {
+    "prescription_id": 23,
+    "appointment_id": 28,
+    "medication_name": "Lidocaine patch",
+    "dosage": "5mg",
+    "frequency": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-02-04T12:04:06.110558"
+  },
+  {
+    "prescription_id": 24,
+    "appointment_id": 28,
+    "medication_name": "Acyclovir",
+    "dosage": "500mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-02-04T12:04:06.110558"
+  },
+  {
+    "prescription_id": 25,
+    "appointment_id": 29,
+    "medication_name": "Dicyclomine",
+    "dosage": "25mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2024-12-03T12:04:06.110558"
+  },
+  {
+    "prescription_id": 26,
+    "appointment_id": 30,
+    "medication_name": "Zolpidem",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-07T17:04:06.110558"
+  },
+  {
+    "prescription_id": 27,
+    "appointment_id": 30,
+    "medication_name": "Trazodone",
+    "dosage": "25mg",
+    "frequency": "As needed",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-07T17:04:06.110558"
+  },
+  {
+    "prescription_id": 28,
+    "appointment_id": 30,
+    "medication_name": "Melatonin",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-07T17:04:06.110558"
+  },
+  {
+    "prescription_id": 29,
+    "appointment_id": 34,
+    "medication_name": "Vaginal estrogen",
+    "dosage": "25mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-17T17:19:06.110558"
+  },
+  {
+    "prescription_id": 30,
+    "appointment_id": 34,
+    "medication_name": "Conjugated estrogens",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-07-17T17:19:06.110558"
+  },
+  {
+    "prescription_id": 31,
+    "appointment_id": 34,
+    "medication_name": "Paroxetine",
+    "dosage": "5mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-07-17T17:19:06.110558"
+  },
+  {
+    "prescription_id": 32,
+    "appointment_id": 35,
+    "medication_name": "Moisturizers",
+    "dosage": "250mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-04-22T14:34:06.110558"
+  },
+  {
+    "prescription_id": 33,
+    "appointment_id": 37,
+    "medication_name": "Apixaban",
+    "dosage": "20mg",
+    "frequency": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-09-28T08:19:06.110558"
+  },
+  {
+    "prescription_id": 34,
+    "appointment_id": 38,
+    "medication_name": "Insulin glargine",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-10T13:49:06.110558"
+  },
+  {
+    "prescription_id": 35,
+    "appointment_id": 40,
+    "medication_name": "Propranolol",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "7 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-06T11:34:06.110558"
+  },
+  {
+    "prescription_id": 36,
+    "appointment_id": 45,
+    "medication_name": "Furosemide",
+    "dosage": "20mg",
+    "frequency": "At bedtime",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-01-07T16:04:06.110558"
+  },
+  {
+    "prescription_id": 37,
+    "appointment_id": 45,
+    "medication_name": "Carvedilol",
+    "dosage": "100mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-01-07T16:04:06.110558"
+  },
+  {
+    "prescription_id": 38,
+    "appointment_id": 46,
+    "medication_name": "Prednisone",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-02T12:04:06.110558"
+  },
+  {
+    "prescription_id": 39,
+    "appointment_id": 47,
+    "medication_name": "Triamcinolone cream",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "60 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-04-14T13:04:06.110558"
+  },
+  {
+    "prescription_id": 40,
+    "appointment_id": 48,
+    "medication_name": "Hydrocortisone cream",
+    "dosage": "100mg",
+    "frequency": "As needed",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2024-12-11T09:04:06.110558"
+  },
+  {
+    "prescription_id": 41,
+    "appointment_id": 48,
+    "medication_name": "Triamcinolone cream",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2024-12-11T09:04:06.110558"
+  },
+  {
+    "prescription_id": 42,
+    "appointment_id": 48,
+    "medication_name": "Tacrolimus ointment",
+    "dosage": "25mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2024-12-11T09:04:06.110558"
+  },
+  {
+    "prescription_id": 43,
+    "appointment_id": 49,
+    "medication_name": "Omeprazole",
+    "dosage": "5mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-03-31T08:49:06.110558"
+  },
+  {
+    "prescription_id": 44,
+    "appointment_id": 49,
+    "medication_name": "Famotidine",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-03-31T08:49:06.110558"
+  },
+  {
+    "prescription_id": 45,
+    "appointment_id": 49,
+    "medication_name": "Pantoprazole",
+    "dosage": "5mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-03-31T08:49:06.110558"
+  },
+  {
+    "prescription_id": 46,
+    "appointment_id": 50,
+    "medication_name": "Amoxicillin",
+    "dosage": "250mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-03-04T11:34:06.110558"
+  },
+  {
+    "prescription_id": 47,
+    "appointment_id": 50,
+    "medication_name": "Pantoprazole",
+    "dosage": "10mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-03-04T11:34:06.110558"
+  },
+  {
+    "prescription_id": 48,
+    "appointment_id": 50,
+    "medication_name": "Clarithromycin",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-03-04T11:34:06.110558"
+  },
+  {
+    "prescription_id": 49,
+    "appointment_id": 51,
+    "medication_name": "Cholecalciferol",
+    "dosage": "50mg",
+    "frequency": "Once daily",
+    "duration": "7 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-08-05T15:04:06.110558"
+  },
+  {
+    "prescription_id": 50,
+    "appointment_id": 51,
+    "medication_name": "Ergocalciferol",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-08-05T15:04:06.110558"
+  },
+  {
+    "prescription_id": 51,
+    "appointment_id": 53,
+    "medication_name": "Valacyclovir",
+    "dosage": "250mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-27T14:19:06.110558"
+  },
+  {
+    "prescription_id": 52,
+    "appointment_id": 53,
+    "medication_name": "Famciclovir",
+    "dosage": "20mg",
+    "frequency": "As needed",
+    "duration": "30 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-08-27T14:19:06.110558"
+  },
+  {
+    "prescription_id": 53,
+    "appointment_id": 53,
+    "medication_name": "Gabapentin",
+    "dosage": "5mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-08-27T14:19:06.110558"
+  },
+  {
+    "prescription_id": 54,
+    "appointment_id": 54,
+    "medication_name": "Prednisone",
+    "dosage": "500mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-09-11T08:49:06.110558"
+  },
+  {
+    "prescription_id": 55,
+    "appointment_id": 55,
+    "medication_name": "Escitalopram",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-04-17T16:49:06.110558"
+  },
+  {
+    "prescription_id": 56,
+    "appointment_id": 55,
+    "medication_name": "Hydroxyzine",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-17T16:49:06.110558"
+  },
+  {
+    "prescription_id": 57,
+    "appointment_id": 55,
+    "medication_name": "Buspirone",
+    "dosage": "200mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-04-17T16:49:06.110558"
+  },
+  {
+    "prescription_id": 58,
+    "appointment_id": 56,
+    "medication_name": "Omeprazole",
+    "dosage": "5mg",
+    "frequency": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-30T12:19:06.110558"
+  },
+  {
+    "prescription_id": 59,
+    "appointment_id": 58,
+    "medication_name": "Meloxicam",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-11-01T15:04:06.110558"
+  },
+  {
+    "prescription_id": 60,
+    "appointment_id": 59,
+    "medication_name": "Albuterol",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-23T15:04:06.110558"
+  },
+  {
+    "prescription_id": 61,
+    "appointment_id": 59,
+    "medication_name": "Tiotropium",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-11-23T15:04:06.110558"
+  },
+  {
+    "prescription_id": 62,
+    "appointment_id": 60,
+    "medication_name": "Vardenafil",
+    "dosage": "250mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2024-12-30T11:04:06.110558"
+  },
+  {
+    "prescription_id": 63,
+    "appointment_id": 61,
+    "medication_name": "Erythromycin ophthalmic ointment",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-12-01T10:04:06.110558"
+  },
+  {
+    "prescription_id": 64,
+    "appointment_id": 61,
+    "medication_name": "Ketotifen eye drops",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-12-01T10:04:06.110558"
+  },
+  {
+    "prescription_id": 65,
+    "appointment_id": 62,
+    "medication_name": "Cephalexin",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-07-03T15:19:06.110558"
+  },
+  {
+    "prescription_id": 66,
+    "appointment_id": 62,
+    "medication_name": "Trimethoprim-sulfamethoxazole",
+    "dosage": "25mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-07-03T15:19:06.110558"
+  },
+  {
+    "prescription_id": 67,
+    "appointment_id": 62,
+    "medication_name": "Clindamycin",
+    "dosage": "200mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-07-03T15:19:06.110558"
+  },
+  {
+    "prescription_id": 68,
+    "appointment_id": 64,
+    "medication_name": "Liraglutide",
+    "dosage": "20mg",
+    "frequency": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-05T14:49:06.110558"
+  },
+  {
+    "prescription_id": 69,
+    "appointment_id": 67,
+    "medication_name": "Phentermine",
+    "dosage": "200mg",
+    "frequency": "Once daily",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-01-23T14:34:06.110558"
+  },
+  {
+    "prescription_id": 70,
+    "appointment_id": 72,
+    "medication_name": "Rizatriptan",
+    "dosage": "50mg",
+    "frequency": "Three times daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-09-18T09:49:06.110558"
+  },
+  {
+    "prescription_id": 71,
+    "appointment_id": 74,
+    "medication_name": "Liraglutide",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-08T12:19:06.110558"
+  },
+  {
+    "prescription_id": 72,
+    "appointment_id": 76,
+    "medication_name": "Ketotifen eye drops",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-04-28T11:04:06.110558"
+  },
+  {
+    "prescription_id": 73,
+    "appointment_id": 76,
+    "medication_name": "Erythromycin ophthalmic ointment",
+    "dosage": "20mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-28T11:04:06.110558"
+  },
+  {
+    "prescription_id": 74,
+    "appointment_id": 79,
+    "medication_name": "Clarithromycin",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-05-25T09:19:06.110558"
+  },
+  {
+    "prescription_id": 75,
+    "appointment_id": 80,
+    "medication_name": "Naproxen",
+    "dosage": "250mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-10-25T12:34:06.110558"
+  },
+  {
+    "prescription_id": 76,
+    "appointment_id": 80,
+    "medication_name": "Aspirin",
+    "dosage": "5mg",
+    "frequency": "Twice daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-10-25T12:34:06.110558"
+  },
+  {
+    "prescription_id": 77,
+    "appointment_id": 83,
+    "medication_name": "Warfarin",
+    "dosage": "200mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-02-20T13:34:06.110558"
+  },
+  {
+    "prescription_id": 78,
+    "appointment_id": 84,
+    "medication_name": "Levothyroxine",
+    "dosage": "50mg",
+    "frequency": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-29T12:34:06.110558"
+  },
+  {
+    "prescription_id": 79,
+    "appointment_id": 84,
+    "medication_name": "Armour Thyroid",
+    "dosage": "50mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-10-29T12:34:06.110558"
+  },
+  {
+    "prescription_id": 80,
+    "appointment_id": 84,
+    "medication_name": "Liothyronine",
+    "dosage": "10mg",
+    "frequency": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-29T12:34:06.110558"
+  },
+  {
+    "prescription_id": 81,
+    "appointment_id": 85,
+    "medication_name": "Ergocalciferol",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-09-12T10:49:06.110558"
+  },
+  {
+    "prescription_id": 82,
+    "appointment_id": 85,
+    "medication_name": "Calcium with vitamin D",
+    "dosage": "25mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-12T10:49:06.110558"
+  },
+  {
+    "prescription_id": 83,
+    "appointment_id": 85,
+    "medication_name": "Cholecalciferol",
+    "dosage": "250mg",
+    "frequency": "As needed",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-09-12T10:49:06.110558"
+  },
+  {
+    "prescription_id": 84,
+    "appointment_id": 88,
+    "medication_name": "Levothyroxine",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-01-27T14:49:06.110558"
+  },
+  {
+    "prescription_id": 85,
+    "appointment_id": 88,
+    "medication_name": "Armour Thyroid",
+    "dosage": "20mg",
+    "frequency": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-01-27T14:49:06.110558"
+  },
+  {
+    "prescription_id": 86,
+    "appointment_id": 88,
+    "medication_name": "Liothyronine",
+    "dosage": "25mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-01-27T14:49:06.110558"
+  },
+  {
+    "prescription_id": 87,
+    "appointment_id": 89,
+    "medication_name": "Triamcinolone cream",
+    "dosage": "100mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-07-18T08:34:06.110558"
+  },
+  {
+    "prescription_id": 88,
+    "appointment_id": 89,
+    "medication_name": "Tacrolimus ointment",
+    "dosage": "10mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-07-18T08:34:06.110558"
+  },
+  {
+    "prescription_id": 89,
+    "appointment_id": 90,
+    "medication_name": "Ketotifen eye drops",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-27T08:49:06.110558"
+  },
+  {
+    "prescription_id": 90,
+    "appointment_id": 90,
+    "medication_name": "Artificial tears",
+    "dosage": "100mg",
+    "frequency": "Twice daily",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-11-27T08:49:06.110558"
+  },
+  {
+    "prescription_id": 91,
+    "appointment_id": 91,
+    "medication_name": "Acetaminophen",
+    "dosage": "5mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-02-19T14:34:06.110558"
+  },
+  {
+    "prescription_id": 92,
+    "appointment_id": 91,
+    "medication_name": "Aspirin",
+    "dosage": "25mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-02-19T14:34:06.110558"
+  },
+  {
+    "prescription_id": 93,
+    "appointment_id": 92,
+    "medication_name": "Amiodarone",
+    "dosage": "500mg",
+    "frequency": "Once daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-11-08T13:34:06.110558"
+  },
+  {
+    "prescription_id": 94,
+    "appointment_id": 92,
+    "medication_name": "Rivaroxaban",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-08T13:34:06.110558"
+  },
+  {
+    "prescription_id": 95,
+    "appointment_id": 94,
+    "medication_name": "Valacyclovir",
+    "dosage": "50mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-09-14T08:04:06.110558"
+  },
+  {
+    "prescription_id": 96,
+    "appointment_id": 94,
+    "medication_name": "Acyclovir",
+    "dosage": "200mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-14T08:04:06.110558"
+  },
+  {
+    "prescription_id": 97,
+    "appointment_id": 94,
+    "medication_name": "Gabapentin",
+    "dosage": "50mg",
+    "frequency": "Twice daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-09-14T08:04:06.110558"
+  },
+  {
+    "prescription_id": 98,
+    "appointment_id": 96,
+    "medication_name": "Azithromycin",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-05-18T16:34:06.110558"
+  },
+  {
+    "prescription_id": 99,
+    "appointment_id": 96,
+    "medication_name": "Prednisone",
+    "dosage": "500mg",
+    "frequency": "At bedtime",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-05-18T16:34:06.110558"
+  },
+  {
+    "prescription_id": 100,
+    "appointment_id": 96,
+    "medication_name": "Albuterol",
+    "dosage": "50mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-05-18T16:34:06.110558"
+  },
+  {
+    "prescription_id": 101,
+    "appointment_id": 97,
+    "medication_name": "Apixaban",
+    "dosage": "50mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-08-22T09:04:06.110558"
+  },
+  {
+    "prescription_id": 102,
+    "appointment_id": 98,
+    "medication_name": "Losartan",
+    "dosage": "20mg",
+    "frequency": "As needed",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-03-21T10:04:06.110558"
+  },
+  {
+    "prescription_id": 103,
+    "appointment_id": 98,
+    "medication_name": "Amlodipine",
+    "dosage": "200mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-03-21T10:04:06.110558"
+  },
+  {
+    "prescription_id": 104,
+    "appointment_id": 100,
+    "medication_name": "Cholecalciferol",
+    "dosage": "50mg",
+    "frequency": "Every 8 hours",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-28T14:04:06.110558"
+  },
+  {
+    "prescription_id": 105,
+    "appointment_id": 100,
+    "medication_name": "Ergocalciferol",
+    "dosage": "5mg",
+    "frequency": "As needed",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-28T14:04:06.110558"
+  },
+  {
+    "prescription_id": 106,
+    "appointment_id": 100,
+    "medication_name": "Calcium with vitamin D",
+    "dosage": "100mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-28T14:04:06.110558"
+  },
+  {
+    "prescription_id": 107,
+    "appointment_id": 101,
+    "medication_name": "Topiramate-phentermine",
+    "dosage": "100mg",
+    "frequency": "As needed",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-01-12T14:04:06.110558"
+  },
+  {
+    "prescription_id": 108,
+    "appointment_id": 101,
+    "medication_name": "Liraglutide",
+    "dosage": "500mg",
+    "frequency": "Twice daily",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-01-12T14:04:06.110558"
+  },
+  {
+    "prescription_id": 109,
+    "appointment_id": 101,
+    "medication_name": "Semaglutide",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-01-12T14:04:06.110558"
+  },
+  {
+    "prescription_id": 110,
+    "appointment_id": 102,
+    "medication_name": "Montelukast",
+    "dosage": "100mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-10-29T09:49:06.110558"
+  },
+  {
+    "prescription_id": 111,
+    "appointment_id": 102,
+    "medication_name": "Loratadine",
+    "dosage": "100mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-29T09:49:06.110558"
+  },
+  {
+    "prescription_id": 112,
+    "appointment_id": 102,
+    "medication_name": "Fexofenadine",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-29T09:49:06.110558"
+  },
+  {
+    "prescription_id": 113,
+    "appointment_id": 103,
+    "medication_name": "Semaglutide",
+    "dosage": "250mg",
+    "frequency": "Once daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-09-18T17:04:06.110558"
+  },
+  {
+    "prescription_id": 114,
+    "appointment_id": 103,
+    "medication_name": "Liraglutide",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-09-18T17:04:06.110558"
+  },
+  {
+    "prescription_id": 115,
+    "appointment_id": 103,
+    "medication_name": "Phentermine",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-18T17:04:06.110558"
+  },
+  {
+    "prescription_id": 116,
+    "appointment_id": 104,
+    "medication_name": "Loratadine",
+    "dosage": "20mg",
+    "frequency": "Twice daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-05-10T15:19:06.110558"
+  },
+  {
+    "prescription_id": 117,
+    "appointment_id": 105,
+    "medication_name": "Sulfasalazine",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-08-03T15:49:06.110558"
+  },
+  {
+    "prescription_id": 118,
+    "appointment_id": 105,
+    "medication_name": "Prednisone",
+    "dosage": "20mg",
+    "frequency": "Three times daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-08-03T15:49:06.110558"
+  },
+  {
+    "prescription_id": 119,
+    "appointment_id": 105,
+    "medication_name": "Adalimumab",
+    "dosage": "5mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-08-03T15:49:06.110558"
+  },
+  {
+    "prescription_id": 120,
+    "appointment_id": 108,
+    "medication_name": "Propylthiouracil",
+    "dosage": "250mg",
+    "frequency": "Once daily",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-11-04T16:49:06.110558"
+  },
+  {
+    "prescription_id": 121,
+    "appointment_id": 109,
+    "medication_name": "Atenolol",
+    "dosage": "250mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-05-20T09:34:06.110558"
+  },
+  {
+    "prescription_id": 122,
+    "appointment_id": 109,
+    "medication_name": "Propylthiouracil",
+    "dosage": "500mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-05-20T09:34:06.110558"
+  },
+  {
+    "prescription_id": 123,
+    "appointment_id": 109,
+    "medication_name": "Propranolol",
+    "dosage": "5mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-05-20T09:34:06.110558"
+  },
+  {
+    "prescription_id": 124,
+    "appointment_id": 111,
+    "medication_name": "Azithromycin",
+    "dosage": "25mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-02-19T09:49:06.110558"
+  },
+  {
+    "prescription_id": 125,
+    "appointment_id": 112,
+    "medication_name": "Pantoprazole",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-20T10:49:06.110558"
+  },
+  {
+    "prescription_id": 126,
+    "appointment_id": 112,
+    "medication_name": "Omeprazole",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "7 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-20T10:49:06.110558"
+  },
+  {
+    "prescription_id": 127,
+    "appointment_id": 116,
+    "medication_name": "Bupropion",
+    "dosage": "200mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-06-12T11:19:06.110558"
+  },
+  {
+    "prescription_id": 128,
+    "appointment_id": 116,
+    "medication_name": "Fluoxetine",
+    "dosage": "250mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-12T11:19:06.110558"
+  },
+  {
+    "prescription_id": 129,
+    "appointment_id": 117,
+    "medication_name": "Hydrocortisone cream",
+    "dosage": "25mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2024-12-05T08:34:06.110558"
+  },
+  {
+    "prescription_id": 130,
+    "appointment_id": 117,
+    "medication_name": "Triamcinolone cream",
+    "dosage": "5mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2024-12-05T08:34:06.110558"
+  },
+  {
+    "prescription_id": 131,
+    "appointment_id": 118,
+    "medication_name": "Apixaban",
+    "dosage": "5mg",
+    "frequency": "Every 8 hours",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-17T14:34:06.110558"
+  },
+  {
+    "prescription_id": 132,
+    "appointment_id": 120,
+    "medication_name": "Amoxicillin-clavulanate",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-08-19T15:34:06.110558"
+  },
+  {
+    "prescription_id": 133,
+    "appointment_id": 120,
+    "medication_name": "Cephalexin",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-19T15:34:06.110558"
+  },
+  {
+    "prescription_id": 134,
+    "appointment_id": 120,
+    "medication_name": "Clindamycin",
+    "dosage": "250mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-08-19T15:34:06.110558"
+  },
+  {
+    "prescription_id": 135,
+    "appointment_id": 121,
+    "medication_name": "Orlistat",
+    "dosage": "5mg",
+    "frequency": "Three times daily",
+    "duration": "30 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-05-22T09:34:06.110558"
+  },
+  {
+    "prescription_id": 136,
+    "appointment_id": 121,
+    "medication_name": "Topiramate-phentermine",
+    "dosage": "500mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-05-22T09:34:06.110558"
+  },
+  {
+    "prescription_id": 137,
+    "appointment_id": 123,
+    "medication_name": "Sildenafil",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2024-12-21T11:04:06.110558"
+  },
+  {
+    "prescription_id": 138,
+    "appointment_id": 123,
+    "medication_name": "Vardenafil",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2024-12-21T11:04:06.110558"
+  },
+  {
+    "prescription_id": 139,
+    "appointment_id": 124,
+    "medication_name": "Moisturizers",
+    "dosage": "100mg",
+    "frequency": "At bedtime",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-06-09T16:04:06.110558"
+  },
+  {
+    "prescription_id": 140,
+    "appointment_id": 124,
+    "medication_name": "Triamcinolone cream",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "60 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-09T16:04:06.110558"
+  },
+  {
+    "prescription_id": 141,
+    "appointment_id": 125,
+    "medication_name": "Linaclotide",
+    "dosage": "100mg",
+    "frequency": "Twice daily",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-07-09T10:19:06.110558"
+  },
+  {
+    "prescription_id": 142,
+    "appointment_id": 127,
+    "medication_name": "Sumatriptan",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-06-08T13:19:06.110558"
+  },
+  {
+    "prescription_id": 143,
+    "appointment_id": 127,
+    "medication_name": "Amitriptyline",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-08T13:19:06.110558"
+  },
+  {
+    "prescription_id": 144,
+    "appointment_id": 127,
+    "medication_name": "Topiramate",
+    "dosage": "250mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-08T13:19:06.110558"
+  },
+  {
+    "prescription_id": 145,
+    "appointment_id": 128,
+    "medication_name": "Ferrous sulfate",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-04-24T10:34:06.110558"
+  },
+  {
+    "prescription_id": 146,
+    "appointment_id": 131,
+    "medication_name": "Escitalopram",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-30T11:49:06.110558"
+  },
+  {
+    "prescription_id": 147,
+    "appointment_id": 131,
+    "medication_name": "Duloxetine",
+    "dosage": "20mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-04-30T11:49:06.110558"
+  },
+  {
+    "prescription_id": 148,
+    "appointment_id": 131,
+    "medication_name": "Hydroxyzine",
+    "dosage": "100mg",
+    "frequency": "Three times daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-04-30T11:49:06.110558"
+  },
+  {
+    "prescription_id": 149,
+    "appointment_id": 132,
+    "medication_name": "Levothyroxine",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-09T14:49:06.110558"
+  },
+  {
+    "prescription_id": 150,
+    "appointment_id": 132,
+    "medication_name": "Liothyronine",
+    "dosage": "250mg",
+    "frequency": "Three times daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-09T14:49:06.110558"
+  },
+  {
+    "prescription_id": 151,
+    "appointment_id": 132,
+    "medication_name": "Armour Thyroid",
+    "dosage": "200mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-06-09T14:49:06.110558"
+  },
+  {
+    "prescription_id": 152,
+    "appointment_id": 133,
+    "medication_name": "Tamsulosin",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-11T16:49:06.110558"
+  },
+  {
+    "prescription_id": 153,
+    "appointment_id": 139,
+    "medication_name": "Linaclotide",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-11-20T07:49:06.110558"
+  },
+  {
+    "prescription_id": 154,
+    "appointment_id": 139,
+    "medication_name": "Hyoscyamine",
+    "dosage": "20mg",
+    "frequency": "Every 8 hours",
+    "duration": "30 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-11-20T07:49:06.110558"
+  },
+  {
+    "prescription_id": 155,
+    "appointment_id": 139,
+    "medication_name": "Loperamide",
+    "dosage": "200mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-11-20T07:49:06.110558"
+  },
+  {
+    "prescription_id": 156,
+    "appointment_id": 141,
+    "medication_name": "Guaifenesin",
+    "dosage": "500mg",
+    "frequency": "At bedtime",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-04-08T09:34:06.110558"
+  },
+  {
+    "prescription_id": 157,
+    "appointment_id": 141,
+    "medication_name": "Benzonatate",
+    "dosage": "100mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-08T09:34:06.110558"
+  },
+  {
+    "prescription_id": 158,
+    "appointment_id": 143,
+    "medication_name": "Ferrous gluconate",
+    "dosage": "100mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-04-05T11:04:06.110558"
+  },
+  {
+    "prescription_id": 159,
+    "appointment_id": 143,
+    "medication_name": "Vitamin C",
+    "dosage": "20mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-05T11:04:06.110558"
+  },
+  {
+    "prescription_id": 160,
+    "appointment_id": 144,
+    "medication_name": "Armour Thyroid",
+    "dosage": "20mg",
+    "frequency": "As needed",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-08T08:19:06.110558"
+  },
+  {
+    "prescription_id": 161,
+    "appointment_id": 149,
+    "medication_name": "Dicyclomine",
+    "dosage": "250mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2024-12-11T13:04:06.110558"
+  },
+  {
+    "prescription_id": 162,
+    "appointment_id": 150,
+    "medication_name": "Phentermine",
+    "dosage": "500mg",
+    "frequency": "At bedtime",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-28T17:19:06.110558"
+  },
+  {
+    "prescription_id": 163,
+    "appointment_id": 150,
+    "medication_name": "Orlistat",
+    "dosage": "25mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-28T17:19:06.110558"
+  },
+  {
+    "prescription_id": 164,
+    "appointment_id": 151,
+    "medication_name": "Allopurinol",
+    "dosage": "250mg",
+    "frequency": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-10-12T14:34:06.110558"
+  },
+  {
+    "prescription_id": 165,
+    "appointment_id": 151,
+    "medication_name": "Colchicine",
+    "dosage": "5mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-10-12T14:34:06.110558"
+  },
+  {
+    "prescription_id": 166,
+    "appointment_id": 151,
+    "medication_name": "Indomethacin",
+    "dosage": "5mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-10-12T14:34:06.110558"
+  },
+  {
+    "prescription_id": 167,
+    "appointment_id": 152,
+    "medication_name": "Vardenafil",
+    "dosage": "500mg",
+    "frequency": "As needed",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-11-16T12:19:06.110558"
+  },
+  {
+    "prescription_id": 168,
+    "appointment_id": 153,
+    "medication_name": "Fexofenadine",
+    "dosage": "25mg",
+    "frequency": "Every 8 hours",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-04-22T11:34:06.110558"
+  },
+  {
+    "prescription_id": 169,
+    "appointment_id": 153,
+    "medication_name": "Cetirizine",
+    "dosage": "100mg",
+    "frequency": "At bedtime",
+    "duration": "30 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-22T11:34:06.110558"
+  },
+  {
+    "prescription_id": 170,
+    "appointment_id": 154,
+    "medication_name": "Ibuprofen",
+    "dosage": "5mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-03-22T11:04:06.110558"
+  },
+  {
+    "prescription_id": 171,
+    "appointment_id": 156,
+    "medication_name": "Azithromycin",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-03T14:49:06.110558"
+  },
+  {
+    "prescription_id": 172,
+    "appointment_id": 156,
+    "medication_name": "Albuterol",
+    "dosage": "20mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-08-03T14:49:06.110558"
+  },
+  {
+    "prescription_id": 173,
+    "appointment_id": 156,
+    "medication_name": "Prednisone",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-08-03T14:49:06.110558"
+  },
+  {
+    "prescription_id": 174,
+    "appointment_id": 159,
+    "medication_name": "Sildenafil",
+    "dosage": "200mg",
+    "frequency": "Twice daily",
+    "duration": "30 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-02-09T16:19:06.110558"
+  },
+  {
+    "prescription_id": 175,
+    "appointment_id": 162,
+    "medication_name": "Propranolol",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-18T13:04:06.110558"
+  },
+  {
+    "prescription_id": 176,
+    "appointment_id": 162,
+    "medication_name": "Methimazole",
+    "dosage": "250mg",
+    "frequency": "Every 8 hours",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-04-18T13:04:06.110558"
+  },
+  {
+    "prescription_id": 177,
+    "appointment_id": 162,
+    "medication_name": "Propylthiouracil",
+    "dosage": "250mg",
+    "frequency": "Once daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-04-18T13:04:06.110558"
+  },
+  {
+    "prescription_id": 178,
+    "appointment_id": 163,
+    "medication_name": "Linaclotide",
+    "dosage": "20mg",
+    "frequency": "At bedtime",
+    "duration": "60 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-10-26T12:04:06.110558"
+  },
+  {
+    "prescription_id": 179,
+    "appointment_id": 163,
+    "medication_name": "Amitriptyline",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-26T12:04:06.110558"
+  },
+  {
+    "prescription_id": 180,
+    "appointment_id": 163,
+    "medication_name": "Loperamide",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "30 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-10-26T12:04:06.110558"
+  },
+  {
+    "prescription_id": 181,
+    "appointment_id": 164,
+    "medication_name": "Allopurinol",
+    "dosage": "50mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-16T16:34:06.110558"
+  },
+  {
+    "prescription_id": 182,
+    "appointment_id": 164,
+    "medication_name": "Prednisone",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-16T16:34:06.110558"
+  },
+  {
+    "prescription_id": 183,
+    "appointment_id": 165,
+    "medication_name": "Silodosin",
+    "dosage": "500mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-16T11:19:06.110558"
+  },
+  {
+    "prescription_id": 184,
+    "appointment_id": 165,
+    "medication_name": "Dutasteride",
+    "dosage": "25mg",
+    "frequency": "As needed",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-16T11:19:06.110558"
+  },
+  {
+    "prescription_id": 185,
+    "appointment_id": 165,
+    "medication_name": "Alfuzosin",
+    "dosage": "100mg",
+    "frequency": "At bedtime",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-16T11:19:06.110558"
+  },
+  {
+    "prescription_id": 186,
+    "appointment_id": 166,
+    "medication_name": "Amitriptyline",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-23T11:34:06.110558"
+  },
+  {
+    "prescription_id": 187,
+    "appointment_id": 166,
+    "medication_name": "Loperamide",
+    "dosage": "200mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-06-23T11:34:06.110558"
+  },
+  {
+    "prescription_id": 188,
+    "appointment_id": 166,
+    "medication_name": "Linaclotide",
+    "dosage": "200mg",
+    "frequency": "Once daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-06-23T11:34:06.110558"
+  },
+  {
+    "prescription_id": 189,
+    "appointment_id": 167,
+    "medication_name": "Amoxicillin",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-02-10T14:04:06.110558"
+  },
+  {
+    "prescription_id": 190,
+    "appointment_id": 169,
+    "medication_name": "Cyclobenzaprine",
+    "dosage": "20mg",
+    "frequency": "Three times daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-05-29T10:04:06.110558"
+  },
+  {
+    "prescription_id": 191,
+    "appointment_id": 170,
+    "medication_name": "Sertraline",
+    "dosage": "50mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2024-12-25T14:19:06.110558"
+  },
+  {
+    "prescription_id": 192,
+    "appointment_id": 173,
+    "medication_name": "Alfuzosin",
+    "dosage": "500mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-07-04T13:49:06.110558"
+  },
+  {
+    "prescription_id": 193,
+    "appointment_id": 173,
+    "medication_name": "Tamsulosin",
+    "dosage": "25mg",
+    "frequency": "As needed",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-04T13:49:06.110558"
+  },
+  {
+    "prescription_id": 194,
+    "appointment_id": 174,
+    "medication_name": "Estradiol",
+    "dosage": "200mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-07-04T15:49:06.110558"
+  },
+  {
+    "prescription_id": 195,
+    "appointment_id": 174,
+    "medication_name": "Gabapentin",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-07-04T15:49:06.110558"
+  },
+  {
+    "prescription_id": 196,
+    "appointment_id": 174,
+    "medication_name": "Conjugated estrogens",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-07-04T15:49:06.110558"
+  },
+  {
+    "prescription_id": 197,
+    "appointment_id": 175,
+    "medication_name": "Propylthiouracil",
+    "dosage": "50mg",
+    "frequency": "Every 8 hours",
+    "duration": "10 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-10-07T07:34:06.110558"
+  },
+  {
+    "prescription_id": 198,
+    "appointment_id": 175,
+    "medication_name": "Propranolol",
+    "dosage": "20mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-10-07T07:34:06.110558"
+  },
+  {
+    "prescription_id": 199,
+    "appointment_id": 175,
+    "medication_name": "Methimazole",
+    "dosage": "200mg",
+    "frequency": "Once daily",
+    "duration": "30 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-07T07:34:06.110558"
+  },
+  {
+    "prescription_id": 200,
+    "appointment_id": 177,
+    "medication_name": "Ciprofloxacin",
+    "dosage": "50mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-06-15T15:04:06.110558"
+  },
+  {
+    "prescription_id": 201,
+    "appointment_id": 177,
+    "medication_name": "Trimethoprim-sulfamethoxazole",
+    "dosage": "20mg",
+    "frequency": "Once daily",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-06-15T15:04:06.110558"
+  },
+  {
+    "prescription_id": 202,
+    "appointment_id": 177,
+    "medication_name": "Nitrofurantoin",
+    "dosage": "5mg",
+    "frequency": "At bedtime",
+    "duration": "60 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-06-15T15:04:06.110558"
+  },
+  {
+    "prescription_id": 203,
+    "appointment_id": 178,
+    "medication_name": "Fosfomycin",
+    "dosage": "10mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-09-17T10:49:06.110558"
+  },
+  {
+    "prescription_id": 204,
+    "appointment_id": 178,
+    "medication_name": "Ciprofloxacin",
+    "dosage": "20mg",
+    "frequency": "As needed",
+    "duration": "7 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-09-17T10:49:06.110558"
+  },
+  {
+    "prescription_id": 205,
+    "appointment_id": 179,
+    "medication_name": "Amitriptyline",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "10 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-11-03T13:04:06.110558"
+  },
+  {
+    "prescription_id": 206,
+    "appointment_id": 179,
+    "medication_name": "Propranolol",
+    "dosage": "100mg",
+    "frequency": "Three times daily",
+    "duration": "14 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-11-03T13:04:06.110558"
+  },
+  {
+    "prescription_id": 207,
+    "appointment_id": 180,
+    "medication_name": "Venlafaxine",
+    "dosage": "500mg",
+    "frequency": "Every 8 hours",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-01-10T07:34:06.110558"
+  },
+  {
+    "prescription_id": 208,
+    "appointment_id": 184,
+    "medication_name": "Melatonin",
+    "dosage": "250mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-28T14:49:06.110558"
+  },
+  {
+    "prescription_id": 209,
+    "appointment_id": 186,
+    "medication_name": "Calcium with vitamin D",
+    "dosage": "100mg",
+    "frequency": "Every 8 hours",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2024-12-26T09:04:06.110558"
+  },
+  {
+    "prescription_id": 210,
+    "appointment_id": 187,
+    "medication_name": "Azithromycin",
+    "dosage": "5mg",
+    "frequency": "As needed",
+    "duration": "14 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-09-19T14:04:06.110558"
+  },
+  {
+    "prescription_id": 211,
+    "appointment_id": 187,
+    "medication_name": "Albuterol",
+    "dosage": "250mg",
+    "frequency": "Once daily",
+    "duration": "14 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-09-19T14:04:06.110558"
+  },
+  {
+    "prescription_id": 212,
+    "appointment_id": 189,
+    "medication_name": "Meloxicam",
+    "dosage": "10mg",
+    "frequency": "Twice daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-06-13T13:49:06.110558"
+  },
+  {
+    "prescription_id": 213,
+    "appointment_id": 189,
+    "medication_name": "Ibuprofen",
+    "dosage": "10mg",
+    "frequency": "Twice daily",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-06-13T13:49:06.110558"
+  },
+  {
+    "prescription_id": 214,
+    "appointment_id": 190,
+    "medication_name": "Atenolol",
+    "dosage": "500mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-01-26T08:34:06.110558"
+  },
+  {
+    "prescription_id": 215,
+    "appointment_id": 190,
+    "medication_name": "Methimazole",
+    "dosage": "10mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-01-26T08:34:06.110558"
+  },
+  {
+    "prescription_id": 216,
+    "appointment_id": 190,
+    "medication_name": "Propranolol",
+    "dosage": "5mg",
+    "frequency": "Every 8 hours",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-01-26T08:34:06.110558"
+  },
+  {
+    "prescription_id": 217,
+    "appointment_id": 191,
+    "medication_name": "Zolpidem",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-01-19T17:04:06.110558"
+  },
+  {
+    "prescription_id": 218,
+    "appointment_id": 193,
+    "medication_name": "Lisinopril",
+    "dosage": "200mg",
+    "frequency": "Every 8 hours",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-05-05T14:34:06.110558"
+  },
+  {
+    "prescription_id": 219,
+    "appointment_id": 193,
+    "medication_name": "Carvedilol",
+    "dosage": "200mg",
+    "frequency": "Three times daily",
+    "duration": "7 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-05-05T14:34:06.110558"
+  },
+  {
+    "prescription_id": 220,
+    "appointment_id": 193,
+    "medication_name": "Spironolactone",
+    "dosage": "10mg",
+    "frequency": "As needed",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-05-05T14:34:06.110558"
+  },
+  {
+    "prescription_id": 221,
+    "appointment_id": 194,
+    "medication_name": "Lidocaine patch",
+    "dosage": "10mg",
+    "frequency": "Three times daily",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-05-20T15:04:06.110558"
+  },
+  {
+    "prescription_id": 222,
+    "appointment_id": 194,
+    "medication_name": "Valacyclovir",
+    "dosage": "50mg",
+    "frequency": "At bedtime",
+    "duration": "14 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-05-20T15:04:06.110558"
+  },
+  {
+    "prescription_id": 223,
+    "appointment_id": 194,
+    "medication_name": "Famciclovir",
+    "dosage": "50mg",
+    "frequency": "Every 8 hours",
+    "duration": "30 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-05-20T15:04:06.110558"
+  },
+  {
+    "prescription_id": 224,
+    "appointment_id": 195,
+    "medication_name": "Omeprazole",
+    "dosage": "500mg",
+    "frequency": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take as directed.",
+    "prescribed_date": "2025-10-23T14:49:06.110558"
+  },
+  {
+    "prescription_id": 225,
+    "appointment_id": 195,
+    "medication_name": "Amoxicillin",
+    "dosage": "500mg",
+    "frequency": "Three times daily",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-10-23T14:49:06.110558"
+  },
+  {
+    "prescription_id": 226,
+    "appointment_id": 195,
+    "medication_name": "Clarithromycin",
+    "dosage": "50mg",
+    "frequency": "At bedtime",
+    "duration": "90 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-10-23T14:49:06.110558"
+  },
+  {
+    "prescription_id": 227,
+    "appointment_id": 197,
+    "medication_name": "Warfarin",
+    "dosage": "500mg",
+    "frequency": "Twice daily",
+    "duration": "7 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-02-12T11:49:06.110558"
+  },
+  {
+    "prescription_id": 228,
+    "appointment_id": 198,
+    "medication_name": "Warfarin",
+    "dosage": "200mg",
+    "frequency": "As needed",
+    "duration": "60 days",
+    "instructions": "Take with food.",
+    "prescribed_date": "2025-06-05T15:34:06.110558"
+  },
+  {
+    "prescription_id": 229,
+    "appointment_id": 199,
+    "medication_name": "Ibuprofen",
+    "dosage": "25mg",
+    "frequency": "Every 8 hours",
+    "duration": "90 days",
+    "instructions": "Take on empty stomach.",
+    "prescribed_date": "2025-08-21T15:49:06.110558"
+  },
+  {
+    "prescription_id": 230,
+    "appointment_id": 199,
+    "medication_name": "Pseudoephedrine",
+    "dosage": "20mg",
+    "frequency": "Twice daily",
+    "duration": "10 days",
+    "instructions": "Take with water.",
+    "prescribed_date": "2025-08-21T15:49:06.110558"
+  }
+]

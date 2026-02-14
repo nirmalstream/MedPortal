@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}Patients{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between align-items-center">
+    <h1>Patients</h1>
+    <div>
+        {% if view_all %}
+        <a href="{{ url_for('main.patients') }}" class="btn btn-outline-secondary">View My Patients</a>
+        {% else %}
+        <a href="{{ url_for('main.patients', view='all') }}" class="btn btn-outline-secondary">View All Patients</a>
+        {% endif %}
+        <a href="{{ url_for('main.create_patient') }}" class="btn btn-primary">Add Patient</a>
+    </div>
+</div>
+
+<p class="text-muted">
+    {% if view_all %}
+    Showing: All Patients
+    {% else %}
+    Showing: Your Patients (patients you have appointments with)
+    {% endif %}
+</p>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Phone</th>
+            <th>Appointments</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for p in patients %}
+        <tr>
+            <td>{{ p.patient_id }}</td>
+            <td>{{ p.first_name }} {{ p.last_name }}</td>
+            <td>{{ p.age }} yrs</td>
+            <td>{{ p.gender }}</td>
+            <td>{{ p.phone }}</td>
+            <td><span class="badge bg-info">{{ p.appointment_count }}</span></td>
+            <td>
+                <a href="{{ url_for('main.edit_patient', id=p.patient_id) }}" class="btn btn-sm btn-warning">Edit</a>
+                <form action="{{ url_for('main.delete_patient', id=p.patient_id) }}" method="POST" class="d-inline">
+                    <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Delete this patient?')">Delete</button>
+                </form>
+            </td>
+        </tr>
+        {% else %}
+        <tr>
+            <td colspan="7" class="text-center text-muted">No patients found.</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

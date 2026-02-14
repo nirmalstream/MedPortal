@@ -1,0 +1,7 @@
+faker
+requests
+pymysql
+weaviate-client
+python-dotenv
+sentence-transformers
+flask
